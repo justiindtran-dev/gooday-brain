@@ -52,10 +52,24 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   pipeline and brand assets in /mnt/project-files/gooday-launch/static-ads/source/ (ads.py, wave2.py, lib.py, fonts, pouch
   images). Check every headline against the Notion Claims sheet. Save to
   /mnt/project-files/gooday-launch/static-ads/daily/<date>/ named D1_<Angle>_<Name>.png etc.
-  The report attaches each design with a number and one line on the angle, and asks Justin which to approve.
+  DESIGN LOOP (every design, before Justin sees it):
+   1. Make v1.
+   2. Self-critique: score 1-5 on scroll-stop in 1 second, one clear message, product visible, readable on a phone
+      at thumbnail size, brand look (brain/brand.md), clear call to action, believable/no hype. Write 2-3 specific flaws.
+   3. Make v2 fixing them (v3 if any score is still under 4). Keep the critique in the report.
+   4. Compliance bot checks the final copy (PASS/FIX). Only PASS goes to Justin.
+  COMPETITOR STUDY (part of the daily designs; overnight on Tue/Thu/Sat for a deeper pass): look at ads that have
+  run a long time (a long-running ad usually means it's profitable) in the Meta Ad Library (facebook.com/ads/library,
+  country Australia and US) and TikTok Creative Center top ads for Grüns, AG1, Bloom, Vital Proteins, Jelly Me,
+  Everydaze, Physician's Choice and similar. Log in brain/marketing.md: brand, link, start date / days running,
+  hook, format, why it works. At least 1 of each day's designs adapts a proven pattern (hook structure, layout,
+  format) into a better Gooday version and says which ad inspired it. Adapt the idea only: never copy their images,
+  logos, mascots, exact wording, music or branding, and never name a competitor in an ad.
+  The report attaches each final design with a number, one line on the angle, what inspired it, and its critique
+  scores, and asks Justin which to approve.
   MIRO ACCESS: this thread's session started before Miro was connected, so it cannot reach Miro itself. On approval,
-  copy the approved PNGs to static-ads/approved/<date>/ and ask the coordinator (message_coordinator, attaching
-  Justin's approval message) to open a Miro upload thread that places them on the board.
+  copy the approved PNGs to static-ads/approved/<date>/ and ask the inbox bot thread (message_thread to
+  cmsg_014sJqu1KUzFn2T68FdNjdZp6McRBUR3UbNthYY6ZYJSVq, attaching Justin's approval message), which has Miro, to place them on the board.
   APPROVAL: only designs Justin approves in his own message go to Miro (his Gooday board, link on the Notion
   Gooday project page) and get copied to /mnt/project-files/gooday-launch/static-ads/approved/. Rejected or
   unanswered designs stay in daily/ and are never published anywhere.
@@ -87,7 +101,8 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   one UGC creator brief per week, using approved angles only; Compliance bot checks them.
 - Inbox bot: triage goodaysportsjelly@gmail.com (urgent / reply needed / FYI), draft replies, flag supplier and
   consultant replies to Procurement and Research. NEEDS a session that has the Gmail connector; this thread doesn't.
-  Until then it is inactive. Drafts only, never sends.
+  Runs daily at 4:41 AM as its own scheduled task (trig_014VoZPWirGCULtGvLezyUR4, fresh thread each run), writing
+  reports/<date>-inbox.md before the brief. Drafts only, never sends.
 - Chief of staff bot (weekly): CEO summary for Justin and Kevin: progress vs plan, decisions made and open, numbers
   (ad test, spend, finance), suppliers, risks, next week's top 3. Saved to brain/weekly/<date>.md, pushed to
   GitHub (Kevin reads there) and mirrored to Notion. Posted in this thread as a short summary.

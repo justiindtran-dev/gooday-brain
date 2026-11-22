@@ -121,3 +121,28 @@ Added under "Open" in `brain/claims.md`; no existing rulings were changed.
 
 ---
 _Compliance bot. Not legal advice. Rulings are provisional until the regulatory consultant confirms them._
+
+---
+
+## 23 Nov designs
+
+Checked 22 Nov by the Compliance bot: the three finals in `gooday-launch/static-ads/daily/2026-11-23/` (every word on the image, including the pack render and small print) and their copy in `2026-11-23-marketing.md`. Review only. Nothing was posted or sent.
+
+**Fix for all three (target note).** The 5 g collagen, 6 g fibre, ~25/~35 kcal and <2 g sugar figures are spec targets with no lab NIP yet. The current small print, "Not on sale yet. Concept pack shown.", covers the pack image but not the numbers. Replace it on all three with:
+> **"Not on sale yet. Concept pack shown. Nutrition figures are targets and will be confirmed before launch."**
+
+Once a lab NIP exists, change the numbers to match it and remove the "targets" wording.
+
+| Design | Mark | Notes |
+|---|---|---|
+| **D1_A_DearTub** "Dear collagen tub, It's over." / "5 g collagen in a peach jelly pouch." / "No scoop, no shaker" / "Squeeze and go" / pack: "Daily Jelly, Peach, ~35 kcal, No mixing, 120 g, 5 g collagen" | **FIX** (target note only) | **Comparison:** it addresses a generic format (a tub), not a brand, and makes no claim that powder works worse, is less healthy or is less effective. It is a convenience or preference joke, so under the ACL it doesn't mislead or disparage. Keep it generic: no lookalike tub, scoop or label in the image, and never pair it with "better than", "replaces" or "works better". FSANZ: "5 g collagen" is a quantity statement with no health or protein claim (Green). TGA: no therapeutic wording. Meta: no personal attributes. **Copying:** only the direct-address structure was borrowed from the Grüns "F*CK YOU, HAIR LOSS" ad. The wording, colours and imagery are different and no brand is named. OK. |
+| **D2_B_SqueezeItIn** "Everyone plans to eat more fibre. Some just squeeze it in." / "6 g fibre per pouch" / "About 25 kcal" / "No mixing, no shaker" / pack: "Daily Jelly, Green apple, ~25 kcal, Fibre + greens, 120 g, 6 g fibre" | **FIX** (target note only) | "Everyone plans to…" is a general statement about people. It says nothing about the viewer's body, so Meta's personal-attributes rule is OK. There is no gut, regularity or fullness claim. It doesn't imply the pouch meets daily fibre needs. "6 g fibre" is a quantity statement, so Green (not "good source"). **Copying:** AG1's "Every Woman Poops. Some Do It Regularly." shares only the two-line "everyone… some…" structure. The words, subject and imagery are different, and there is no bodily-function reference. OK. |
+| **D3_A_MakeItPeach** "Collagen, but make it peach." / stat bar "5 g collagen · ~35 kcal · <2 g sugar" / pack as D1 | **FIX** (target note only) | It is a flavour line with Green numbers and no skin, hair, protein or vitamin C claim. "<2 g sugar" matches Green "under 2 g sugar" and doesn't use "low sugar". **Copying:** the Grüns taste-first pattern ("Healthy Has Never Tasted So Good") is used as a pattern only, and "healthy" was rightly avoided. OK. |
+
+**Other notes (not blocking a waitlist test, but clear them before paid use):**
+- **Fruit renders:** the peach and apple look like stock or emoji-style art. Confirm their licence (PHOTO-CREDITS.txt) before paid spend. If they turn out to be platform emoji art, such as Apple's emoji, replace them. That is an IP issue, not a claims issue.
+- **"Daily Jelly" on the pack:** this hangs on the existing consultant question about "daily" dose wording and the TGA interface. It stays Green for now and gets no new ruling.
+- **Disclaimers:** all three keep "Not on sale yet" and use "Join the waitlist", with no "order" or "buy" wording, so they meet ACL rules on pre-launch availability. Target the ads at 18+.
+- None of the three names a competitor, uses a competitor's logo, colours or exact wording, or makes a before-and-after, weight or drug claim.
+
+**Result:** after the small-print swap, all three are PASS and can go to Justin. Until then they are not shown as ready.

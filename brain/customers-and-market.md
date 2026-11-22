@@ -22,6 +22,7 @@ Worth pursuing as a focused online launch. Window to be first in Australia is pr
 
 ## Competitors to watch
 - **Physician's Choice** (US): 6 g fibre, 30 kcal squeeze pouch, TikTok Shop 1 Oct 2026, 4,501 Walmart stores by 24 Oct. Closest copy risk if it enters AU.
+  - (23 Nov 2026) Own Fiber Jelly page: 6 g prebiotic fibre + 600 mcg chromium, <1 g sugar, 7 sticks/box, 3 flavours + variety pack; claims regularity, digestion, fullness, "21% DV", "= 8 cups raw spinach", "GLP-1 journey friendly". DTC still a waitlist (40% off first box). Price and gel agent not shown. https://physicianschoice.com/pages/fiber-jelly (see ../daily-bots/reports/2026-11-23-news.md)
 - **Swisse, Metamucil:** 6 g fibre gummies in Woolworths.
 - **Collagen jellies:** Swisse Bella sticks, ATP NOWAY, Muscle Nation.
 - **Powders:** AG1, Grüns, Bloom, Nutra Organics, GRNS, IM8.
