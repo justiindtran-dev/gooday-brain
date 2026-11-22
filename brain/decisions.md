@@ -6,6 +6,7 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 
 | Date | Decision | Why | Who |
 |---|---|---|---|
+| 23 Nov 2026 | Bot schedule moves to Melbourne time from 26 Nov (same clock times) | Justin back in Melbourne | Justin |
 | 22 Nov 2026 | Markdown folder `brain/` is the source of truth; Notion is a readable copy plus the task list | Bots read and write markdown best; no lock-in; one place for facts | Justin |
 | 22 Nov 2026 | Company email goodaysportsjelly@gmail.com for all external contact | Keep business separate from personal | Justin |
 | ~21 Nov 2026 | Product moved from konjac protein jelly to pectin-set pouch: fibre + greens and collagen lines | Konjac ban risk; fibre trend | Founders |
