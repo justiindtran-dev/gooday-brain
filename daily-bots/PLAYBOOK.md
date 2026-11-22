@@ -14,6 +14,11 @@ The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README
   Dated reports still go to daily-bots/reports/; the brain page links to the report instead of copying it.
 - Bots never mark an item Decided in brain/decisions.md. They add questions under "Open". Only Justin or his co-founder decide;
   when Justin decides something in this thread, the assistant records it in decisions.md (date, decision, why, who).
+- GITHUB SYNC (repo justiindtran-dev/gooday-brain, private; Kevin edits there too). The repo is the master copy.
+  START of each daily run: Ops bot clones/pulls the repo and copies its brain/*.md over /mnt/project-files/brain/ (Kevin's edits win
+  over older folder copies; check changelog dates). END of run: copy changed brain files (and new reports) back into the repo,
+  commit "Daily brain update <date>" and push to main. Never force-push. If a push conflicts, pull, keep both sides' facts, and
+  flag the conflict in the 6:11 AM report.
 - Never write secrets (passwords, bank details, keys) to the brain.
 - Notion mirror: after any brain change, Ops bot updates the matching page under the Notion page "Gooday brain (start here)"
   (https://app.notion.com/p/42014ab463ca81a3b502ef580d13a017, one sub-page per brain file) so the co-founder can read it. Markdown is the master; never copy Notion edits back without checking.

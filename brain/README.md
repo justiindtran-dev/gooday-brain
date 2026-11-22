@@ -1,6 +1,6 @@
 # Gooday brain: start here
 
-This folder is the single source of truth for Gooday. Justin, his co-founder and every bot read it before they work and update it after. If something is true about the business, it lives here. Everything else (Notion, chats, Miro) is a copy or a working space.
+This folder is the single source of truth for Gooday. Master copy: private GitHub repo `justiindtran-dev/gooday-brain` (bots sync the project folder with it every run). Justin, his co-founder and every bot read it before they work and update it after. If something is true about the business, it lives here. Everything else (Notion, chats, Miro) is a copy or a working space.
 
 Last reviewed: 22 Nov 2026.
 
