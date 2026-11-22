@@ -1,0 +1,29 @@
+# Suppliers
+
+Nobody has been contacted (22 Nov 2026). MOQ, cost and lead time marked EST are estimates; others are published by the supplier. Full table and sources: `../daily-bots/reports/2026-11-22-procurement.md`.
+
+## Shortlist
+
+| Rank | Supplier | Country | MOQ | Unit cost (per serve) | Lead time | Certs | Status |
+|---|---|---|---|---|---|---|---|
+| 1 | Wel-Bloom Bio-Tech | Taiwan | EST 50k to 100k | EST A$0.40 to 0.70 | EST 8 to 12 wks | ISO 22000, HACCP, NSF GMP, halal | Not contacted. US$200 sample fee |
+| 2 | ATIQ Food | China (Nantong) | EST 30k to 80k | EST A$0.25 to 0.55 | Samples 15 days, prod 25 to 30 days | BRC A, ISO 22000, halal | Not contacted. Publishes pectin/alginate gel |
+| 3 | TCI Co. | Taiwan | 200,000 | EST A$0.40 to 0.70 | 30 to 45 days | Halal, BRC | Not contacted. Best once demand proven |
+| 4 | Litafood | China | "Flexible", EST 10k to 30k | EST US$0.15 to 0.35 | Samples 15 days | HACCP, BRC, ISO 22000 | Not contacted. Low-MOQ pilot option |
+| AU backup | NHP Contract Manufacturing | Mount Barker, SA | EST 5k to 20k | EST A$0.90 to 1.60 | EST 8 to 14 wks | HACCP | Not contacted. "Made in Australia" pilot |
+| Field find | Sand-M Global (HandyHerb Jelly Me) | Bang Yai, Thailand | EST 20k to 50k if OEM | EST A$0.21 to 0.38 | EST 6 to 10 wks + R&D | Thai FDA | OEM unconfirmed; house gel is konjac. Visit idea before 25 Nov |
+| Rejected for gel | HNK (Thailand), KG Lab (Korea) | | | | | | Carrageenan gel |
+
+Older Notion list (11 Nov): Xi'an International Healthcare, Ningbo Jildan, Litai; Guoyitang and NFA Bridge not found online. See Notion [Manufacturers and message](https://app.notion.com/p/41514ab463ca81558ac4e9f9cd003c90).
+
+## Every RFQ must say
+- Pectin, gelatin or gellan only. **No konjac, no glucomannan, no carrageenan unless approved.** Confirm in writing.
+- Ask for a texture and syneresis trial at 6 to 7 g fibre, not just a quote.
+- Certificates with numbers; verify with the issuing body. Lab-test samples in Australia before anyone eats them.
+
+## Cost picture (EST)
+Landed from Asia about A$0.45 to 0.80 a pouch vs A$1.80 to 2.30 retail: room for DTC margin. From Australia A$1.00 to 1.80: tight.
+
+## Message drafts
+- RFQ draft: `../daily-bots/reports/2026-11-22-procurement.md` ("Draft RFQ").
+- Original manufacturer message: Notion [Manufacturers and message](https://app.notion.com/p/41514ab463ca81558ac4e9f9cd003c90). Send only after the ad test picks an angle.
