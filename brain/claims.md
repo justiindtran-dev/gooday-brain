@@ -23,3 +23,20 @@ Planning guide, not legal advice. Copied from the Notion [Claims sheet](https://
 **Also:** every health claim needs the product to pass the Nutrient Profiling Scoring Criterion. No collagen health claim exists in Schedule 4. Health claims and "daily dose" language risk making it a TGA medicine. Detail: `../daily-bots/reports/2026-11-22-research.md`.
 
 If this page and Notion disagree, this page wins; update Notion to match.
+
+## Open (questions for the regulatory consultant)
+
+Added 22 Nov 2026 by the Compliance bot. Unclear rulings: until answered, treat them as not Green. Detail: `../daily-bots/reports/2026-11-23-compliance.md`.
+
+| Raised | Question | Why it matters |
+|---|---|---|
+| 22 Nov | Can "superfood" be used in customer copy or as a line name? | Nutritionist says greens at ~2 g don't support it; ACL misleading risk |
+| 22 Nov | Is "your daily greens" (or similar) OK with ~2 g greens powder (under 1/4 vegetable serve)? | Superfood landing headline |
+| 22 Nov | Does 5 g hydrolysed collagen (~4.5 g protein) meet "source of protein" (5 g protein/serve)? Any protein-quality condition? | Research says 5 g, nutritionist says 10 g; collagen claims hinge on it |
+| 22 Nov | Can ads compare fibre to a whole food ("same amount of fibre as 2½ cups of broccoli")? Is that a comparative claim under Std 1.2.7? Which data source? | Ad B9 |
+| 22 Nov | Do playful gut lines ("Your gut called. It wants more fibre.") count as a general-level health claim? | Ad B4; affects all gut-themed hooks |
+| 22 Nov | Is "prebiotic" a health claim on pack, in ads or in B2B specs? | Used in the draft RFQ |
+| 22 Nov | Do "one pouch a day" / "daily" lines risk dose presentation under the TGA food-medicine interface, given they are Green now? | Used across ads and pages; Green ruling unchanged pending answer |
+| 22 Nov | Can Kakadu plum be dosed up (overage) to hit an end-of-shelf-life vitamin C level without it counting as an "added vitamin" (Std 1.3.2)? | Vitamin C claim route for collagen |
+| 22 Nov | Pre-launch persona-style ads (e.g. "notes app" lists): what keeps them from being implied testimonials? | Ad B11 |
+| 22 Nov | Creator gifting: required disclosure wording, and what the brand must brief to limit liability for creator claims? | Creator DMs |

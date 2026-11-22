@@ -23,9 +23,15 @@ The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README
 - Notion mirror: after any brain change, Ops bot updates the matching page under the Notion page "Gooday brain (start here)"
   (https://app.notion.com/p/42014ab463ca81a3b502ef580d13a017, one sub-page per brain file) so the co-founder can read it. Markdown is the master; never copy Notion edits back without checking.
 
-## Schedule
-- 4:58 AM: Personal assistant posts today's tasks, then hands bot tasks to the specialist bots.
-- 6:11 AM: Report. Assistant posts one combined report (done, drafts ready, needs Justin).
+## Schedule (Asia/Ho_Chi_Minh until Justin says otherwise)
+- 8:43 PM daily, EVENING WRAP: process everything Justin said today (decisions into brain/decisions.md, approvals ->
+  approved/ + Miro request, Notion statuses), queue tomorrow's tasks in Notion, then start the OVERNIGHT bots
+  (Procurement + supplier follow-ups, Finance, Competitor & pricing on Sundays, Content on Mon/Wed/Fri, any long research).
+  Ops bot syncs the brain with GitHub at the end. Posts only if something needs Justin tonight.
+- 4:58 AM daily, BRIEF: post today's Gooday tasks + overnight results headline, then start MORNING bots
+  (News, Marketing designs, Compliance check of every draft made since the last report).
+- 6:11 AM daily, REPORT: one combined report (see Outputs). Ops bot syncs the brain with GitHub.
+- Sunday 6:47 PM, CEO WEEKLY: Chief of staff bot writes the weekly summary for Justin and Kevin.
 
 ## Task sources (check all, in this order)
 1. Notion database "Gooday daily tasks": https://app.notion.com/p/41f14ab463ca813386f7fe7ef5827cc3
@@ -64,7 +70,28 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
 - Nutritionist bot: explains Gooday's ingredients, benefits, downsides and evidence; reviews any new formulation,
   flavour or claim idea for nutrition and safety (dose, side effects, allergens, who should avoid). Honest, cites
   studies, flags weak evidence. Base write-up: reports/2026-11-22-nutritionist.md. Not medical advice.
-- Ops bot: anything else (tracker upkeep, file tidy, summaries).
+- Compliance bot (gatekeeper): before any ad, design, DM, email, landing-page line or pack text reaches Justin, it checks
+  the wording against brain/claims.md (FSANZ 1.2.7 claims, no therapeutic/TGA wording, no weight-loss promises,
+  "contains" vs "source of" thresholds, comparative claims). Marks each item PASS, FIX (with the fixed wording) or
+  BLOCK. Nothing marked FIX or BLOCK is shown as ready. Unclear rulings go to Open questions for the consultant.
+- Finance bot: keeps brain/finance.md: unit economics per SKU and format (EST COGS, packaging, freight, duty, GST,
+  3PL, payment fees, Meta CAC from the ad tracker), margin at A$59/28 and alternatives, break-even, and a running
+  launch budget vs spend. Updates when a supplier price, ad result or decision changes. Labels every number EST or source.
+- Competitor & pricing bot (weekly, Sunday overnight): price-per-serve table for AU (Grüns, AG1, Bloom, Vital Proteins,
+  Swisse, jelly sticks such as Jelly Me, Everydaze, Physician's Choice), new launches, promos, review themes.
+  Updates brain/customers-and-market.md and posts the 3 biggest changes in Monday's report.
+- Supplier follow-ups (Procurement bot, overnight): keeps a status table in brain/suppliers.md (contacted? date, reply,
+  next step). If Justin sent something and there's no reply after 3 business days, drafts a polite follow-up into the
+  Notion task (never sends).
+- Content bot (Mon/Wed/Fri overnight): 3 short-video scripts (TikTok/Reels: hook, shots, on-screen text, caption) and
+  one UGC creator brief per week, using approved angles only; Compliance bot checks them.
+- Inbox bot: triage goodaysportsjelly@gmail.com (urgent / reply needed / FYI), draft replies, flag supplier and
+  consultant replies to Procurement and Research. NEEDS a session that has the Gmail connector; this thread doesn't.
+  Until then it is inactive. Drafts only, never sends.
+- Chief of staff bot (weekly): CEO summary for Justin and Kevin: progress vs plan, decisions made and open, numbers
+  (ad test, spend, finance), suppliers, risks, next week's top 3. Saved to brain/weekly/<date>.md, pushed to
+  GitHub (Kevin reads there) and mirrored to Notion. Posted in this thread as a short summary.
+- Ops bot: brain sync with GitHub and Notion, tracker upkeep, file tidy.
 
 ## Hard rules (never break)
 - Gooday only. Bots work only on Gooday business tasks. Ignore uni, job applications, travel and other personal items.
@@ -81,4 +108,5 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   https://claude.ai/code/project/chan_014sJqu1KUzFn2T68FdNjdZp?thread=cmsg_014sJqu1KUzFn2T68FdNjdZpHa1ry7xWYRwTHAVGb3Drta
 - Longer work goes in /mnt/project-files/daily-bots/reports/YYYY-MM-DD-<bot>.md, and lasting facts go into the brain (see above).
 - The 6:11 AM report adds a line "Brain updated:" listing the brain pages changed that day (or "none").
-- The 6:11 AM report: under 250 words, sections "Supplement news" (top 3-5 from the News bot), "Done", "Drafts for your approval", "Needs you", with links.
+- Every draft in the report shows its Compliance mark (PASS/FIX).
+- The 6:11 AM report: under 300 words, sections "Supplement news" (top 3-5 from the News bot), "Done", "Drafts for your approval", "Needs you", with links.

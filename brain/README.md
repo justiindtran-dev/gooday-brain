@@ -17,6 +17,7 @@ Last reviewed: 22 Nov 2026.
 | [customers-and-market.md](customers-and-market.md) | Who buys, market size, competitors | Research and Marketing bots |
 | [marketing.md](marketing.md) | Ad test, angles, creators, landing pages | Marketing bot |
 | [suppliers.md](suppliers.md) | Manufacturers shortlist, status of each, RFQ | Procurement bot |
+| [finance.md](finance.md) | Unit economics per format and supplier, margins, break-even, first-batch cash, launch budget vs spend | Finance bot |
 | [decisions.md](decisions.md) | Decisions made (with date and why), and open decisions | Founders only decide; bots may propose |
 | [changelog.md](changelog.md) | One line per change to this folder | Everyone |
 
