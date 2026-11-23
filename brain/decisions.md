@@ -21,6 +21,7 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 
 | Raised | Question | Options | Needed by | Notes |
 |---|---|---|---|---|
+| 23 Nov | Company structure: Pty Ltd with Kevin vs sole trader to start | A) Pty Ltd, both founders as directors and shareholders (Legal bot recommends EST: limited liability for product claims, clean equity split and vesting); B) sole trader (Justin) to start, move to a company later (cheaper now, but personal liability, and Kevin's share is unclear, likely a partnership); C) partnership of Justin and Kevin | Before the ABN, bank account, trade mark filing, supplier contracts or any pre-order money | Accountant to confirm (tax, trusts). Register cost A$636 (Pty Ltd) vs free ABN. See legal.md and ../daily-bots/legal/registration-answer-sheet.md. Legal & admin bot proposal |
 | 23 Nov | Approve recommended formula (fibre and collagen SKUs) | Good / better (recommended) / best per SKU in formulation.md | Before RFQs and samples | Fibre: 7 g (RD + acacia + PHGG), pectin gel. Collagen: 6 g bovine peptides + Kakadu/acerola, gellan gel. Proposal by Nutritionist bot; claims need Compliance and consultant |
 | 22 Nov | How the co-founder gets edit access to the brain | Private GitHub repo; Google Drive/Dropbox folder; Notion only | Now | See README |
 | 22 Nov | Keep Gooday or switch name | Gooday + TM Headstart; Righto; Bewdy/Dayzee | Before buying domain or printing | `../brand/` |

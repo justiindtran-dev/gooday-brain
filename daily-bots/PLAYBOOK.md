@@ -105,12 +105,29 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
 - Supplier follow-ups (Procurement bot, overnight): keeps a status table in brain/suppliers.md (contacted? date, reply,
   next step). If Justin sent something and there's no reply after 3 business days, drafts a polite follow-up into the
   Notion task (never sends).
+- Outreach bot (Asian jelly manufacturers): keeps daily-bots/outreach/ (supplier-list, emails, emails.json) and the
+  "Outreach status" table in brain/suppliers.md. Finds OEM/ODM jelly-pouch makers (Vietnam, China, Thailand, Taiwan,
+  Korea, Malaysia and others) with emails published on their official sites only, and drafts one RFQ each: can they
+  make our exact jelly, sample price + shipping to Melbourne, MOQ per SKU, price tiers, lead times, certifications.
+  Emails go out from goodaysportsjelly@gmail.com ONLY after Justin approves the recipient list and wording in this
+  thread. Overnight: reads replies via the Inbox bot, logs sample price / MOQ / unit price into a comparison table
+  (reports/<date>-outreach.md + brain/suppliers.md), drafts follow-ups after 3 business days of silence and drafts
+  replies to supplier questions for Justin's approval. Never agrees prices, orders samples or pays.
 - Content bot (Mon/Wed/Fri overnight): 3 short-video scripts (TikTok/Reels: hook, shots, on-screen text, caption) and
   one UGC creator brief per week, using approved angles only; Compliance bot checks them.
 - Inbox bot: triage goodaysportsjelly@gmail.com (urgent / reply needed / FYI), draft replies, flag supplier and
   consultant replies to Procurement and Research. NEEDS a session that has the Gmail connector; this thread doesn't.
   Runs daily at 4:41 AM as its own scheduled task (trig_014VoZPWirGCULtGvLezyUR4, fresh thread each run), writing
   reports/<date>-inbox.md before the brief. Drafts only, never sends.
+- Legal & admin bot: keeps brain/legal.md, the paperwork register: every registration, licence, filing, contract
+  and policy Gooday needs (company/ABN/GST, business name, trade marks, domain, food business registration with
+  council, FSANZ labelling and NIP sign-off, food safety/recall plan, import permits (BICON) and customs, product
+  liability insurance, supplier/manufacturing agreement + NDA, co-founder/shareholders agreement, website T&Cs,
+  privacy policy, subscription terms, Australian Consumer Law, influencer agreements, Meta ad account). For each:
+  needed by when, cost EST, who files it, status, link to the official form. It PREPARES drafts and filled-in
+  form answers in daily-bots/legal/, but never files, signs, pays fees or submits anything: Justin (or a lawyer)
+  does that. Not legal advice; flags where a lawyer or accountant is needed. Runs overnight Mon and Thu, and when
+  a decision changes the plan (e.g. supplier country, company set-up, launch date).
 - Chief of staff bot (weekly): CEO summary for Justin and Kevin: progress vs plan, decisions made and open, numbers
   (ad test, spend, finance), suppliers, risks, next week's top 3. Saved to brain/weekly/<date>.md, pushed to
   GitHub (Kevin reads there) and mirrored to Notion. Posted in this thread as a short summary.

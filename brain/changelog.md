@@ -2,6 +2,8 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 23 Nov 2026 | Legal & admin bot | legal.md (new), decisions.md, README.md | Paperwork register by phase (structure, ABN/GST, TM, food registration, labelling, recall, import/BICON/IFIS/TAFTA, insurance, contracts, policies, US); open decision on company structure; 7 drafts in daily-bots/legal/. Report: daily-bots/reports/2026-11-23-legal.md
+
 - 23 Nov 2026 | Nutritionist bot | formulation.md (new), README.md, decisions.md | Benchmark of 18 products, effective doses, recommended formula (fibre 7 g; collagen 6 g + Kakadu/acerola vit C) for stick and pouch; open decision added. Report: daily-bots/reports/2026-11-23-nutritionist.md
 
 - 23 Nov 2026 | Finance bot | finance.md | created unit economics v1

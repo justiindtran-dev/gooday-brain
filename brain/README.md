@@ -19,6 +19,7 @@ Last reviewed: 22 Nov 2026.
 | [suppliers.md](suppliers.md) | Manufacturers shortlist, status of each, RFQ | Procurement bot |
 | [formulation.md](formulation.md) | Competitor benchmark per serve, effective doses, recommended formula per SKU and format (proposal) | Nutritionist bot |
 | [finance.md](finance.md) | Unit economics per format and supplier, margins, break-even, first-batch cash, launch budget vs spend | Finance bot |
+| [legal.md](legal.md) | Paperwork register: registrations, licences, contracts, policies, import and labelling by phase, with cost EST, who and status | Legal & admin bot, founders |
 | [decisions.md](decisions.md) | Decisions made (with date and why), and open decisions | Founders only decide; bots may propose |
 | [changelog.md](changelog.md) | One line per change to this folder | Everyone |
 
