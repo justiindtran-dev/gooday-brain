@@ -33,6 +33,16 @@ Scores run from 1 to 5, in this order: scroll-stop / one message / product visib
 ## Compliance: PASS after small-print fix
 The Compliance bot marked all 3 finals FIX because the nutrition numbers are targets. The small print on D1_A_DearTub.png, D2_B_SqueezeItIn.png and D3_A_MakeItPeach.png now reads exactly: "Not on sale yet. Concept pack shown. Nutrition figures are targets and will be confirmed before launch." Nothing else changed, and the tub stays generic with no brand. All three were re-rendered, the finals in the folder were overwritten, and each was checked: the line fits on one row and is legible. **Compliance: PASS after small-print fix.**
 
+## Pack update: re-rendered on the v3 pack (23 Nov)
+Justin flagged that the three finals showed the outdated pouch. They are now re-rendered with the round 3 final pack (21 Nov) from `gooday-launch/pouch-designs/final-with-critique/`:
+- D1 and D3 use `pouch_v3_peach_collagen.png`. D2 uses `pouch_v3_apple_fibre.png`. Both PNGs already had transparent backgrounds, so no cut-out was needed.
+- Ad colours now match the pack. On the collagen ads, the ink, CTA bar, tick chips and "peach." are maroon (#5A1F30 / #7A2A40) on peach. The fibre ad stays green and white.
+- The headlines, copy and compliant small print are unchanged.
+- The old-pack finals are kept as `*_oldpack.png`.
+- I viewed all three: the pack reads clearly, nothing overlaps, and the small print is legible.
+- Scores are unchanged, except D1's "product visible" score rises from 4 to 5: the maroon bottom now separates from the peach background.
+- **For Compliance:** the pack text now shows in the ads. The apple pack says "Good source of fibre" (Amber in claims.md). The collagen pack says "Marine collagen peptides", but the collagen source is still undecided. At feed size the text is small, but it can be read. Either flag it with the pack review or crop the pack text before paid use.
+
 ## Shared notes
 - All three carry the updated small print (see above) and the 120 g spout-pouch render (it matches product.md). None of them use "tear", "pocket" or "no fridge" (all unconfirmed).
 - Avoided per yesterday's compliance report: "replaces/swap the pile", "your daily greens", "taking your collagen", gut-benefit jokes, "Falling short…?" questions, and "superfood".

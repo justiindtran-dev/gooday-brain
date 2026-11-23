@@ -6,6 +6,7 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 
 | Date | Decision | Why | Who |
 |---|---|---|---|
+| 23 Nov 2026 | Round 3 packaging (21 Nov) is the current pack for all ads and mockups: pouches (fibre in green apple, peach, green grape; collagen in peach with berry panel) and 14-pouch outer bags | Justin likes it; ads must match the latest pack | Justin |
 | 23 Nov 2026 | Bot schedule moves to Melbourne time from 26 Nov (same clock times) | Justin back in Melbourne | Justin |
 | 22 Nov 2026 | Markdown folder `brain/` is the source of truth; Notion is a readable copy plus the task list | Bots read and write markdown best; no lock-in; one place for facts | Justin |
 | 22 Nov 2026 | Company email goodaysportsjelly@gmail.com for all external contact | Keep business separate from personal | Justin |
@@ -20,6 +21,7 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 
 | Raised | Question | Options | Needed by | Notes |
 |---|---|---|---|---|
+| 23 Nov | Approve recommended formula (fibre and collagen SKUs) | Good / better (recommended) / best per SKU in formulation.md | Before RFQs and samples | Fibre: 7 g (RD + acacia + PHGG), pectin gel. Collagen: 6 g bovine peptides + Kakadu/acerola, gellan gel. Proposal by Nutritionist bot; claims need Compliance and consultant |
 | 22 Nov | How the co-founder gets edit access to the brain | Private GitHub repo; Google Drive/Dropbox folder; Notion only | Now | See README |
 | 22 Nov | Keep Gooday or switch name | Gooday + TM Headstart; Righto; Bewdy/Dayzee | Before buying domain or printing | `../brand/` |
 | 22 Nov | Format: 120 g spout pouch or 15 to 30 g stick | | Before RFQs | Stick is cheaper (EST) |

@@ -6,7 +6,7 @@ Read this at the start of every daily run. Justin is in Asia/Ho_Chi_Minh (UTC+7)
 The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README.md.
 - BEFORE working: every bot reads brain/README.md, brain/decisions.md, and the page for its area:
   Marketing -> brand.md, marketing.md, claims.md, customers-and-market.md. Procurement -> suppliers.md, product.md.
-  Research -> claims.md, product.md, customers-and-market.md. Nutritionist -> product.md, claims.md.
+  Research -> claims.md, product.md, customers-and-market.md. Nutritionist -> product.md, claims.md, formulation.md.
   News -> customers-and-market.md (competitors). Ops -> all.
   If the brain and an older file or Notion page disagree, the brain wins (unless the older file is newer and dated; then fix the brain).
 - AFTER working: if a bot learned a lasting fact (new supplier status, price, trade mark status, creator shortlist, competitor move,
@@ -50,7 +50,7 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   gummy brands). Rotate: do one standing duty per day if nothing is assigned.
   DAILY DESIGNS (every day): make 2-3 new static ad designs (1080x1350 PNG) for new angles, using the existing
   pipeline and brand assets in /mnt/project-files/gooday-launch/static-ads/source/ (ads.py, wave2.py, lib.py, fonts, pouch
-  images). Check every headline against the Notion Claims sheet. Save to
+  images). Always use the latest final pack from brain/product.md (Packaging), currently pouch-designs/final-with-critique/ v3; never older pouch renders in static-ads/source. Check every headline against the Notion Claims sheet. Save to
   /mnt/project-files/gooday-launch/static-ads/daily/<date>/ named D1_<Angle>_<Name>.png etc.
   DESIGN LOOP (every design, before Justin sees it):
    1. Make v1.
@@ -67,7 +67,8 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   logos, mascots, exact wording, music or branding, and never name a competitor in an ad.
   The report attaches each final design with a number, one line on the angle, what inspired it, and its critique
   scores, and asks Justin which to approve.
-  MIRO ACCESS: this thread's session started before Miro was connected, so it cannot reach Miro itself. On approval,
+  MIRO ACCESS (updated 23 Nov): Miro and Gmail tools now load in this thread; place approved designs on the Gooday board
+  directly. Fallback if they are missing: On approval,
   copy the approved PNGs to static-ads/approved/<date>/ and ask the inbox bot thread (message_thread to
   cmsg_014sJqu1KUzFn2T68FdNjdZp6McRBUR3UbNthYY6ZYJSVq, attaching Justin's approval message), which has Miro, to place them on the board.
   APPROVAL: only designs Justin approves in his own message go to Miro (his Gooday board, link on the Notion
@@ -81,9 +82,16 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   FSANZ / TGA / FDA / ACCC news, funding and M&A news, big-brand launches (AG1, Grüns, Bloom, Vital Proteins, Swisse,
   Blackmores), GLP-1 and gut-health trends. 5-8 items, each with date, one-line summary, link and a "why it matters
   for Gooday" line. Only items published in the last ~36 hours; say "quiet day" rather than pad with old news.
-- Nutritionist bot: explains Gooday's ingredients, benefits, downsides and evidence; reviews any new formulation,
-  flavour or claim idea for nutrition and safety (dose, side effects, allergens, who should avoid). Honest, cites
-  studies, flags weak evidence. Base write-up: reports/2026-11-22-nutritionist.md. Not medical advice.
+- Nutritionist bot (formulator): owns the recipe. Keeps brain/formulation.md: (1) a BENCHMARK table of what current
+  brands put in per serve (fibre/greens: Grüns, AG1, Bloom Greens, Benefiber, Metamucil gummies, Physician's Choice
+  Fiber Jelly, Jelly Me fibre; collagen: Vital Proteins, Jelly Me collagen, Everydaze, Ritual-style jellies, AU
+  collagen gummies), with ingredient, form, dose per serve, sweetener, gel, kcal, sugar, price per serve, source link
+  and date; (2) the evidence-based effective dose per ingredient (RCTs/meta-analyses, links); (3) a RECOMMENDED
+  FORMULA per SKU with exact quantities per serve (g/mg), % of daily target, why, cost impact (ask Finance),
+  FSANZ claim it unlocks (ask Compliance), taste/texture and gel risks, and what the factory must confirm.
+  Re-checks the benchmark monthly (first Monday overnight) and whenever a new competitor launches (News bot flags).
+  Reviews any new formula, flavour or claim idea for safety (dose, side effects, allergens, who should avoid).
+  Honest, cites studies, flags weak evidence. Not medical advice. Formula changes are proposals; Justin decides.
 - Compliance bot (gatekeeper): before any ad, design, DM, email, landing-page line or pack text reaches Justin, it checks
   the wording against brain/claims.md (FSANZ 1.2.7 claims, no therapeutic/TGA wording, no weight-loss promises,
   "contains" vs "source of" thresholds, comparative claims). Marks each item PASS, FIX (with the fixed wording) or

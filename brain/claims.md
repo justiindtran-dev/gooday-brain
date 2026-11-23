@@ -40,3 +40,11 @@ Added 22 Nov 2026 by the Compliance bot. Unclear rulings: until answered, treat 
 | 22 Nov | Can Kakadu plum be dosed up (overage) to hit an end-of-shelf-life vitamin C level without it counting as an "added vitamin" (Std 1.3.2)? | Vitamin C claim route for collagen |
 | 22 Nov | Pre-launch persona-style ads (e.g. "notes app" lists): what keeps them from being implied testimonials? | Ad B11 |
 | 22 Nov | Creator gifting: required disclosure wording, and what the brand must brief to limit liability for creator claims? | Creator DMs |
+| 23 Nov | Collagen protein on the NIP: nitrogen × 6.25 or a collagen factor (about 5.5)? Is "source of protein" OK if 6 g collagen clears 5 g only on 6.25? (No PDCAAS rule applies in AU) | Formula 3b; ACL risk at the 5 g line |
+| 23 Nov | Is a 17% vitamin-C-standardised acerola powder "used as a nutritive substance" (added vitamin C, not permitted in jelly under Std 1.3.2)? | "Good source of vitamin C" and the vitamin C skin claim |
+| 23 Nov | Exact Sch 4 condition and wording for fibre "contributes to regular laxation" and the vitamin C collagen/skin claim; is a dietary-context statement needed? | Formula 3a / 3b health claims |
+| 23 Nov | Can the vitamin C "collagen formation … skin" claim sit on a collagen-led pack without implying a collagen-for-skin claim? | Collagen SKU pack and ads |
+| 23 Nov | Is a squeeze jelly NPSC Category 1 (beverage) or Category 2 (food)? | All health claims (EST: both formulas pass either way) |
+
+## Changelog
+- 23 Nov 2026 (Compliance bot): 5 Open items added from the formula claims review (`../daily-bots/reports/2026-11-23-compliance.md`, "Formula claims (23 Nov)"). Confirmed rulings not changed.

@@ -2,6 +2,8 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 23 Nov 2026 | Nutritionist bot | formulation.md (new), README.md, decisions.md | Benchmark of 18 products, effective doses, recommended formula (fibre 7 g; collagen 6 g + Kakadu/acerola vit C) for stick and pouch; open decision added. Report: daily-bots/reports/2026-11-23-nutritionist.md
+
 - 23 Nov 2026 | Finance bot | finance.md | created unit economics v1
 
 - 22 Nov 2026, Compliance bot: claims.md, added "Open" questions for the consultant (superfood, daily greens, collagen vs protein threshold, food comparisons, gut hooks, prebiotic, daily wording, Kakadu overage, persona ads, creator disclosure). Report: daily-bots/reports/2026-11-23-compliance.md.
@@ -17,3 +19,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 23 Nov 2026 | News bot | customers-and-market.md | Physician's Choice Fiber Jelly: chromium 600 mcg, GLP-1 positioning, 7/box, DTC waitlist
 
 - 23 Nov 2026 | Marketing bot | marketing.md | Added "Competitor ad library" (11 competitor ads: Grüns, AG1, Vital Proteins, Bloom, with run lengths EST) for the daily designs
+- 23 Nov 2026 | Assistant | decisions.md | Recorded: round 3 packaging is the current pack for ads
