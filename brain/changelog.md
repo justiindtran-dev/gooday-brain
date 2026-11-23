@@ -23,3 +23,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 23 Nov 2026 | Marketing bot | marketing.md | Added "Competitor ad library" (11 competitor ads: Grüns, AG1, Vital Proteins, Bloom, with run lengths EST) for the daily designs
 - 23 Nov 2026 | Assistant | decisions.md | Recorded: round 3 packaging is the current pack for ads
 - 23 Nov 2026 | Outreach bot | suppliers.md | Added "Outreach status" table: 19 suppliers, RFQs drafted, none sent
+- 23 Nov 2026: Outreach bot sent 12 supplier RFQs (Justin approved via card); follow-ups due 27 Nov.

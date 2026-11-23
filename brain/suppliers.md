@@ -34,22 +34,25 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 
 | Company | Country | Email | Status | Date |
 |---|---|---|---|---|
-| ATIQ Food | China | info@atiqfoods.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Litafood (Nantong Litai Jianlong) | China | info@litafood.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Victory Foods China | China | info@victoryfoodscn.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| ATIQ Food | China | info@atiqfoods.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Litafood (Nantong Litai Jianlong) | China | info@litafood.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Victory Foods China | China | info@victoryfoodscn.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
 | Guangzhou Green Health Pharmaceutical | China | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
 | Wel-Bloom Bio-Tech | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
 | TCI Co. | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| SDFOOD | South Korea | Sales@sdfoods.co.kr | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| SDFOOD | South Korea | Sales@sdfoods.co.kr | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
 | COSMAX NBT | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
 | Naturetech | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Tombow Beverage | Japan | overseas@tombow-b.jp | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Tombow Beverage | Japan | overseas@tombow-b.jp | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
 | ASEED BREW | Japan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Sand-M Global | Thailand | export@sandm.co.th | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Sand-M Global | Thailand | export@sandm.co.th | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
 | ARNIFO | Thailand | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Bionutricia | Malaysia | business@bionutricia.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| Bionutricia | Malaysia | business@bionutricia.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+
+
+Outreach note (23 Nov 2026): 12 RFQs emailed at ~2:15 PM Bangkok. Follow up after 3 business days of silence (27 Nov). 7 contact-form-only suppliers still need Justin to paste the draft (see daily-bots/outreach/2026-11-23-emails.md).
