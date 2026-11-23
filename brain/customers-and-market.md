@@ -28,3 +28,6 @@ Worth pursuing as a focused online launch. Window to be first in Australia is pr
 - **Powders:** AG1, Grüns, Bloom, Nutra Organics, GRNS, IM8.
 - **Funday** (see Notion "Funday sales").
 - **Sand-M / HandyHerb Jelly Me** (Thailand): 30 g fibre jelly stick, ฿20 at Watsons. Konjac gel.
+- **Haleon / Benefiber** (24 Nov 2026): partnering with Pfizer China on weight management; Benefiber Prebiotic Fiber is pitched as a companion product (China). Shows big brands framing fibre as a GLP-1-era companion. https://www.nutraingredients.com/Article/2026/11/23/glp-1-and-beyond-pfizer-china-haleon-partner-in-weight-management-solutions/
+- **WELLINUS (THE HONEST FARMER, Korea)** (24 Nov 2026): collagen jelly sticks with low-molecular cod collagen, no added sugar, 60M+ sticks sold (company figure), mainly Korean home shopping; the factory also does OEM/ODM (possible supplier). https://en.prnasia.com/releases/global/the-honest-farmer-co-ltd-s-wellinus-collagen-jelly-sticks-surpass-60-million-sticks-sold-in-korea-follow-up-products-in-development-557623.shtml
+- **Goli Stik** (US, launched 12 Nov 2026): Sleep/Gut/Beauty jelly sticks, US$24.98 for 10; Gut Stik has only ~1.7 g fibre and ~half its carbs as sugar, 25 to 30 kcal. https://www.stack3d.com/2026/11/goli-nutrition-stik-series/

@@ -2,6 +2,9 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 24 Nov 2026 | Compliance bot | marketing.md | 24 Nov content set status corrected: end cards, Script 2 hook, Script 3 replacement shot and UGC mock-up lines are FIX (were "all PASS"). Report: daily-bots/reports/2026-11-24-compliance.md
+- 24 Nov 2026 | Marketing bot | marketing.md | Competitor ad library: 24 Nov rows (AG1/Bloom pointout, Bloom flavour trio + 216-day Mega Pack, Grüns 13-in-1, Vital Proteins); pack soft-focus rule for static ads; 3 new designs PASS. Report: daily-bots/reports/2026-11-24-marketing.md
+- 24 Nov 2026 | News bot | customers-and-market.md | Added Haleon/Benefiber weight-management partnership, WELLINUS collagen jelly sticks (Korea, OEM), Goli Stik jelly sticks. Report: daily-bots/reports/2026-11-24-news.md
 - 24 Nov 2026 | Procurement bot | suppliers.md, decisions.md | Outreach status refreshed (12 sent 23 Nov, no bounces; 1 handover reply Nam Viet -> Ninie; follow-ups due 27 Nov; 7 form-only marked NOT SENT); empty RFQ comparison table; stale "nobody contacted" lines fixed; Sand-M visit note. Report: daily-bots/reports/2026-11-24-procurement.md
 - 24 Nov 2026 | Finance bot | finance.md | Status line dated; new section 8 "What the RFQ replies will change" and section 9 "Sample budget EST" (5 suppliers ≈ A$1.1k mid, A$270 to 2.4k + border contingency). Report: daily-bots/reports/2026-11-24-finance.md
 - 24 Nov 2026 | Content bot | marketing.md | Linked 24 Nov video scripts + UGC brief; pack-framing rule (Amber "Good source of fibre" and "Marine collagen peptides" kept out of focus). Report: daily-bots/reports/2026-11-24-content.md
