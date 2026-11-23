@@ -48,7 +48,7 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 | ASEED BREW | Japan | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
 | Sand-M Global | Thailand | export@sandm.co.th | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | ARNIFO | Thailand | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
-| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn, now Ninie sale3.gmp@vinuttrust.com | SENT 23 Nov 2026; replied 23 Nov 2:29 PM: handover to Ninie, no quote yet. Follow up with Ninie 27 Nov if silent | 23 Nov 2026 |
+| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn, now Ninie sale3.gmp@vinuttrust.com | SENT 23 Nov 2026; replied 23 Nov 2:29 PM: handover to Ninie, no quote yet. Thank-you + nudge draft in Gmail (Inbox bot, 24 Nov, unsent). Follow up with Ninie 27 Nov if silent | 23 Nov 2026 |
 | Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
