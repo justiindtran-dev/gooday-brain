@@ -56,3 +56,4 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 
 
 Outreach note (23 Nov 2026): 12 RFQs emailed at ~2:15 PM Bangkok. Follow up after 3 business days of silence (27 Nov). 7 contact-form-only suppliers still need Justin to paste the draft (see daily-bots/outreach/2026-11-23-emails.md).
+- 23 Nov 2026 2:29 PM: Nam Viet (Vinut) replied: Peter forwarded to colleague Ninie (sale3.gmp@vinuttrust.com) to handle. No quote yet; wait for Ninie.
