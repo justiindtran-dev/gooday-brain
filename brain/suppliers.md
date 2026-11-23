@@ -27,3 +27,29 @@ Landed from Asia about A$0.45 to 0.80 a pouch vs A$1.80 to 2.30 retail: room for
 ## Message drafts
 - RFQ draft: `../daily-bots/reports/2026-11-22-procurement.md` ("Draft RFQ").
 - Original manufacturer message: Notion [Manufacturers and message](https://app.notion.com/p/41514ab463ca81558ac4e9f9cd003c90). Send only after the ad test picks an angle.
+
+## Outreach status
+
+RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-emails.md` (list and sources: `../daily-bots/outreach/2026-11-23-supplier-list.md`). Nothing sent. Justin sends from goodaysportsjelly@gmail.com.
+
+| Company | Country | Email | Status | Date |
+|---|---|---|---|---|
+| ATIQ Food | China | info@atiqfoods.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Litafood (Nantong Litai Jianlong) | China | info@litafood.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Victory Foods China | China | info@victoryfoodscn.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Guangzhou Green Health Pharmaceutical | China | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Wel-Bloom Bio-Tech | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| TCI Co. | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| SDFOOD | South Korea | Sales@sdfoods.co.kr | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| COSMAX NBT | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Naturetech | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Tombow Beverage | Japan | overseas@tombow-b.jp | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| ASEED BREW | Japan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Sand-M Global | Thailand | export@sandm.co.th | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| ARNIFO | Thailand | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | drafted, awaiting Justin's approval | 23 Nov 2026 |
+| Bionutricia | Malaysia | business@bionutricia.com | drafted, awaiting Justin's approval | 23 Nov 2026 |
