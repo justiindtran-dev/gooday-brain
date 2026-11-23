@@ -8,6 +8,7 @@
 - On GO: send the manufacturer message for that angle (see [suppliers.md](suppliers.md)).
 - Landing pages: `../gooday-launch/landing-page/` (not yet published on Netlify).
 - Daily ad designs from the Marketing bot go to `../gooday-launch/static-ads/daily/<date>/`; only Justin-approved ones move to `approved/` and Miro.
+- Short-video scripts and UGC briefs (Content bot, Mon/Wed/Fri): 24 Nov 2026 set (3 scripts on B-1, A-3, B-5/B-6 + 1 UGC brief, all PASS) in `../daily-bots/reports/2026-11-24-content.md`. Production rule (24 Nov): frame the round 3 pouch on its top half; the lower lines "Good source of fibre" (Amber) and "Marine collagen peptides" (collagen source still open) stay out of focus and out of copy. No eating or taste shots until real samples exist.
 
 ## Creators
 - Mix to start: 2 to 3 dietitians, 4 to 6 micro fitness/wellness creators, 1 to 2 food reviewers. Gift first, unscripted, pay the ones that convert.

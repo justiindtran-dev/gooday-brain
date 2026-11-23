@@ -1,6 +1,6 @@
 # Suppliers
 
-Nobody has been contacted (22 Nov 2026). MOQ, cost and lead time marked EST are estimates; others are published by the supplier. Full table and sources: `../daily-bots/reports/2026-11-22-procurement.md`.
+12 RFQs emailed 23 Nov 2026; 7 form-only suppliers not yet contacted; no quotes yet (status 24 Nov 2026: see "Outreach status"). MOQ, cost and lead time marked EST are estimates; others are published by the supplier. Full table and sources: `../daily-bots/reports/2026-11-22-procurement.md`.
 
 ## Shortlist
 
@@ -26,34 +26,42 @@ Landed from Asia about A$0.45 to 0.80 a pouch vs A$1.80 to 2.30 retail: room for
 
 ## Message drafts
 - RFQ draft: `../daily-bots/reports/2026-11-22-procurement.md` ("Draft RFQ").
-- Original manufacturer message: Notion [Manufacturers and message](https://app.notion.com/p/41514ab463ca81558ac4e9f9cd003c90). Send only after the ad test picks an angle.
+- Original manufacturer message: Notion [Manufacturers and message](https://app.notion.com/p/41514ab463ca81558ac4e9f9cd003c90). Superseded 23 Nov 2026: RFQs now sent (decisions.md).
 
 ## Outreach status
 
-RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-emails.md` (list and sources: `../daily-bots/outreach/2026-11-23-supplier-list.md`). Nothing sent. Justin sends from goodaysportsjelly@gmail.com.
+RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-emails.md` (list and sources: `../daily-bots/outreach/2026-11-23-supplier-list.md`). 12 sent by email 23 Nov 2026 (Justin approved); 7 form-only not yet sent. Justin sends from goodaysportsjelly@gmail.com.
 
 | Company | Country | Email | Status | Date |
 |---|---|---|---|---|
-| ATIQ Food | China | info@atiqfoods.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Litafood (Nantong Litai Jianlong) | China | info@litafood.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Victory Foods China | China | info@victoryfoodscn.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Guangzhou Green Health Pharmaceutical | China | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Wel-Bloom Bio-Tech | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| TCI Co. | Taiwan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| SDFOOD | South Korea | Sales@sdfoods.co.kr | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| COSMAX NBT | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Naturetech | South Korea | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Tombow Beverage | Japan | overseas@tombow-b.jp | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| ASEED BREW | Japan | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Sand-M Global | Thailand | export@sandm.co.th | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| ARNIFO | Thailand | form only | drafted, awaiting Justin's approval | 23 Nov 2026 |
-| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
-| Bionutricia | Malaysia | business@bionutricia.com | SENT 23 Nov 2026 from Gooday inbox (Justin approved); awaiting reply | 23 Nov 2026 |
+| ATIQ Food | China | info@atiqfoods.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Litafood (Nantong Litai Jianlong) | China | info@litafood.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Victory Foods China | China | info@victoryfoodscn.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Guangzhou Green Health Pharmaceutical | China | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| Wel-Bloom Bio-Tech | Taiwan | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| TCI Co. | Taiwan | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| SDFOOD | South Korea | Sales@sdfoods.co.kr | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| COSMAX NBT | South Korea | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| Naturetech | South Korea | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| Tombow Beverage | Japan | overseas@tombow-b.jp | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| ASEED BREW | Japan | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| Sand-M Global | Thailand | export@sandm.co.th | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| ARNIFO | Thailand | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
+| Nam Viet F&B (Vinut) | Vietnam | info@vinut.com.vn, now Ninie sale3.gmp@vinuttrust.com | SENT 23 Nov 2026; replied 23 Nov 2:29 PM: handover to Ninie, no quote yet. Follow up with Ninie 27 Nov if silent | 23 Nov 2026 |
+| Nawon Food & Beverage | Vietnam | tony@nawon.com.vn | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Sunsho Trade | Vietnam | yasunaka@sunsho-group.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Thoyyib Pharma | Malaysia | admin@thoyyibpharma.com.my | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Bionutricia | Malaysia | business@bionutricia.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 
 
-Outreach note (23 Nov 2026): 12 RFQs emailed at ~2:15 PM Bangkok. Follow up after 3 business days of silence (27 Nov). 7 contact-form-only suppliers still need Justin to paste the draft (see daily-bots/outreach/2026-11-23-emails.md).
+Outreach note (updated 24 Nov 2026, Procurement bot): Gooday Sent folder holds 12 RFQ threads (23 Nov, ~2:14 PM ICT), no bounces. Replies: 1 of 12 (Nam Viet handover). Follow-ups due Fri 27 Nov (3 business days) for any still silent; draft in `../daily-bots/reports/2026-11-24-procurement.md`. 23 Nov was a Japanese public holiday (Tombow reads it 24 Nov). 7 form-only suppliers still need Justin to paste (5-step guide in the same report).
 - 23 Nov 2026 2:29 PM: Nam Viet (Vinut) replied: Peter forwarded to colleague Ninie (sale3.gmp@vinuttrust.com) to handle. No quote yet; wait for Ninie.
+- Sand-M: RFQ emailed 23 Nov, no reply. Visit window closes 25 Nov (Justin leaves Bangkok); suggested phone call 24 Nov morning (report section 6).
+
+## RFQ comparison (replies)
+Empty until quotes arrive. Columns: supplier, reply date, can make it, formats, sample price, sample shipping to Melbourne, MOQ per SKU (+ film MOQ), unit price tiers (EXW/FOB), lead time, gel named / konjac-free confirmed in writing, collagen source, certs (numbers, expiry), AU export experience. Working table: `../daily-bots/reports/2026-11-24-procurement.md` section 2. Copy each quote here (dated) once it lands.
+
+| Supplier | Reply date | Sample price + shipping | MOQ per SKU | Unit price tiers | Lead time | Konjac-free in writing | Certs |
+|---|---|---|---|---|---|---|---|
+| (none yet, 24 Nov 2026) | | | | | | | |

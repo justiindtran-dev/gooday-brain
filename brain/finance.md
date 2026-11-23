@@ -1,6 +1,6 @@
 # Finance: unit economics v1
 
-Finance bot, 23 Nov 2026. **No supplier has quoted** (see [suppliers.md](suppliers.md)), so nearly every cost here is **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
+Finance bot, 23 Nov 2026 (status checked 24 Nov 2026). **No supplier has quoted yet**: 12 RFQs sent 23 Nov, 1 handover reply (see [suppliers.md](suppliers.md)), so nearly every cost here is **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
 
 ## What this page says
 1. **The 20 to 30 g stick is the money format.** The 28-pack weighs about 1 kg as sticks and about 3.8 kg as 120 g pouches. The pouch costs more to make and far more to post, and it never beats the stick.
@@ -107,3 +107,24 @@ Neither budget covers a first production batch (section 6).
 3. **GST status of a functional jelly** (ATO ruling or accountant) and the **HS code / duty for Taiwan**.
 
 Open question for founders (not decided): the format numbers point strongly to the stick. See [decisions.md](decisions.md).
+
+## 8. What the RFQ replies will change (24 Nov 2026)
+Detail: `../daily-bots/reports/2026-11-24-finance.md`.
+- **Unit price tiers (RFQ q4)** replace section 1 "Ex-works jelly + fill". The biggest lever: every A$0.10 a stick moves contribution by about A$2.80 per 28-pack order (EST); A$0.25 a pouch moves it by A$7.00.
+- **MOQ and printed-film MOQ (q3)** replace section 6. Film MOQ can be higher than the jelly MOQ and set the real minimum batch.
+- **Sample price and shipping (q2)** replace the section 7 samples line.
+- **Lead time (q5)** and deposit terms set cash timing (deposit EST 30 to 50%), not margin.
+- **Supplier country** sets duty: Taiwan 5% (EST, no FTA); China, Korea, Japan, Vietnam, Malaysia and Thailand have FTAs with Australia, so 0% is likely (EST; needs a certificate of origin; broker to confirm HS code).
+- **Who supplies ingredients (q6)** and bovine vs marine price change the collagen adder (A$0.13 to 0.20 a unit, EST).
+- Once a written quote lands, the matching cells here change from EST to "quote, <date>".
+
+## 9. Sample budget EST (about 5 suppliers, both SKUs, to Melbourne; 24 Nov 2026)
+| Per supplier | Low | Mid | High |
+|---|---|---|---|
+| Sample fee (Wel-Bloom US$200 refundable is published; others EST) | US$0 | US$80 | US$200 |
+| Express courier, 1 to 2 kg (EST) | US$35 | US$60 | US$110 |
+| **× 5 suppliers** | **≈ A$270** | **≈ A$1,080** | **≈ A$2,385** |
+| Border contingency for collagen/gelatin samples (permit, broker; EST) | A$0 | A$300 | A$800 |
+| **Total EST** | **≈ A$270** | **≈ A$1,380** | **≈ A$3,185** |
+
+Duty and import GST EST A$0 if each consignment stays under A$1,000. Not included: AU lab screen before tasting (EST A$150 to 300 a sample; test the 2 or 3 finalists only) and stage-2 custom prototypes (R&D EST US$0 to 500 each, top 2 only). The mid case sits near the "comfortable" A$1,200 samples line in section 7 and well above the "lean" A$450. Suggested (Justin decides): stock samples first, courier quote in writing before paying anything, collagen samples only from finalists.

@@ -2,6 +2,11 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 24 Nov 2026 | Procurement bot | suppliers.md, decisions.md | Outreach status refreshed (12 sent 23 Nov, no bounces; 1 handover reply Nam Viet -> Ninie; follow-ups due 27 Nov; 7 form-only marked NOT SENT); empty RFQ comparison table; stale "nobody contacted" lines fixed; Sand-M visit note. Report: daily-bots/reports/2026-11-24-procurement.md
+- 24 Nov 2026 | Finance bot | finance.md | Status line dated; new section 8 "What the RFQ replies will change" and section 9 "Sample budget EST" (5 suppliers ≈ A$1.1k mid, A$270 to 2.4k + border contingency). Report: daily-bots/reports/2026-11-24-finance.md
+- 24 Nov 2026 | Content bot | marketing.md | Linked 24 Nov video scripts + UGC brief; pack-framing rule (Amber "Good source of fibre" and "Marine collagen peptides" kept out of focus). Report: daily-bots/reports/2026-11-24-content.md
+- 24 Nov 2026 | Legal & admin bot | legal.md | New "Supplier stage" section (NDA timing, NNN for China, sample import/BICON rules, supplier document list); NDA row updated; 2 open questions. Report: daily-bots/reports/2026-11-24-legal.md
+
 - 23 Nov 2026 | Legal & admin bot | legal.md (new), decisions.md, README.md | Paperwork register by phase (structure, ABN/GST, TM, food registration, labelling, recall, import/BICON/IFIS/TAFTA, insurance, contracts, policies, US); open decision on company structure; 7 drafts in daily-bots/legal/. Report: daily-bots/reports/2026-11-23-legal.md
 
 - 23 Nov 2026 | Nutritionist bot | formulation.md (new), README.md, decisions.md | Benchmark of 18 products, effective doses, recommended formula (fibre 7 g; collagen 6 g + Kakadu/acerola vit C) for stick and pouch; open decision added. Report: daily-bots/reports/2026-11-23-nutritionist.md

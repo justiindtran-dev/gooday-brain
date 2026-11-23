@@ -30,7 +30,7 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 | 22 Nov | Format: 120 g spout pouch or 15 to 30 g stick | | Before RFQs | Stick is cheaper (EST) |
 | 22 Nov | Collagen source and halal | Bovine, marine (fish allergen) | Before RFQs | |
 | 22 Nov | First batch: low-MOQ pilot or commit to one Taiwanese factory | Litafood / NHP vs Wel-Bloom / TCI | After ad test | |
-| 22 Nov | Which suppliers get RFQs | 12 emailed 23 Nov; 7 form-only remain (Wel-Bloom, TCI, Cosmax, ...) | Now | Justin pastes form drafts |
-| 22 Nov | Visit Sand-M in Bang Yai before 25 Nov? | | 25 Nov | Low cost to ask |
+| 22 Nov | Which suppliers get RFQs | 12 emailed 23 Nov; 7 form-only remain (Wel-Bloom, TCI, Cosmax, ...) | Now | Justin pastes form drafts (5-step guide in ../daily-bots/reports/2026-11-24-procurement.md) |
+| 22 Nov | Visit Sand-M in Bang Yai before 25 Nov? | Phone 24 Nov AM to book a short meeting 25 Nov; or drop and follow up by email 27 Nov | 25 Nov | Low cost to ask. RFQ emailed 23 Nov, no reply as of 24 Nov; call script in ../daily-bots/reports/2026-11-24-procurement.md (Procurement bot, 24 Nov) |
 | 21 Nov | Peach on both lines or collagen only; grape teal or purple | | Before print | Design critique |
 | 21 Nov | Bag of 14 or 28 | | Before print | |
