@@ -173,3 +173,15 @@ Daily targets used: fibre 30 g (NIP reference; women's AI 25 g), protein 50 g, v
 - Bovine (recommended) or marine collagen: still open in decisions.md.
 - Whether to pay about A$0.05 more per serve for the PHGG-led "best" fibre and a low-FODMAP certification.
 - Ask Finance to re-run COGS at these ingredient costs (A$0.15 to 0.24 per serve, EST), which may push Sand-M to the top of its ฿5 to 9 range.
+
+## Thai 7-Eleven field benchmark (Justin's photos, 23 Nov 2026; figures read from labels, to verify)
+| Product | Format | Key dose | Note |
+|---|---|---|---|
+| Doi Kham Fiber Jelly | 25 g stick | ~13 g fibre | Highest fibre seen; check fibre type (likely polydextrose/inulin) and gel (konjac?) |
+| Posh Jelly Fiber (tamarind) | 28 g stick | ~10 g fibre + probiotics | |
+| Pananchita Per Peach / Per Melon | 50 g spout pouch | ~10.8 g fibre | Closest to our pouch format and peach flavour |
+| Jejuvita Gluta Glassy | 25 g stick | ~10 g fish collagen | Collagen stick benchmark; also glutathione |
+| Body Shape EZE JellyTokz | 25 g stick | ~3.6 g fibre | Low dose |
+| Nuui Fiberry Jelly | 25 g stick | "High fibre" | |
+| Sand-M Jelly Me Cuti Activ Fiber | 30 g stick | see 22 Nov procurement report | konjac gel |
+Implication: Thai sticks carry 10-13 g fibre vs our 6-7 g. In AU, "Big 6" still beats local fibre products (e.g. ~3.5 g), but avoid superlatives like "most fibre"; Nutritionist to check whether 10 g in a pectin (non-konjac) gel is feasible and tolerable (GI comfort), and Compliance to re-check the "Big 6" angle. Samples being hand-carried to Melbourne 26 Nov for tasting, texture and supplier reference.

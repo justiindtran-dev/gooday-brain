@@ -34,3 +34,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 23 Nov 2026: Outreach bot sent 12 supplier RFQs (Justin approved via card); follow-ups due 27 Nov.
 - 24 Nov 2026, Inbox bot: suppliers.md, Nam Viet row notes a Gmail thank-you/nudge draft to Peter and Ninie (unsent).
 - 24 Nov 2026: D1 What's in it approved, placed on Miro 'Approved ads' frame; bold-statement preference recorded in marketing.md.
+- 24 Nov 2026: Thai 7-Eleven benchmark table added to formulation.md (to verify in next Nutritionist run).
