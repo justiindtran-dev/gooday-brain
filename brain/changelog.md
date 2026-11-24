@@ -41,3 +41,5 @@ One line per change: date, who, file, what. Newest at the top.
 - 24 Nov 2026: D1 What's in it approved, placed on Miro 'Approved ads' frame; bold-statement preference recorded in marketing.md.
 - 24 Nov 2026: Thai 7-Eleven benchmark table added to formulation.md (to verify in next Nutritionist run).
 - 25 Nov 2026, Inbox bot: suppliers.md, Tombow row notes a Gmail holding-reply draft (clarifying questions on carrageenan type, LBG+xanthan-only option, konjac cross-contact, 7 g fibre at 25 g, indicative fees), unsent.
+- 25 Nov 2026 | News bot | customers-and-market.md | Added Boots UK / Kolmar BNH fibre + collagen jelly sticks and First Day 8 g fibre + collagen packets. Report: daily-bots/reports/2026-11-25-news.md
+- 25 Nov 2026 | Marketing bot | marketing.md | 25 Nov designs (D1 Number stack, D2 Zero shaker, D3 Fibre squeezed; all bold, Compliance PASS) and which competitor patterns they used. Reports: daily-bots/reports/2026-11-25-marketing.md, 2026-11-25-compliance-am.md

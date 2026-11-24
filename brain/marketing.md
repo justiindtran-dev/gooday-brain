@@ -9,6 +9,7 @@
 - Landing pages: `../gooday-launch/landing-page/` (not yet published on Netlify).
 - Daily ad designs from the Marketing bot go to `../gooday-launch/static-ads/daily/<date>/`; only Justin-approved ones move to `approved/` and Miro.
 - Short-video scripts and UGC briefs (Content bot, Mon/Wed/Fri): 24 Nov 2026 set (3 scripts on B-1, A-3, B-5/B-6 + 1 UGC brief; Content bot marked all PASS, but the 24 Nov Compliance check re-marked the 3 end cards, the Script 2 hook, the Script 3 pile-replacement shot and the UGC mock-up pack lines as FIX, see `../daily-bots/reports/2026-11-24-compliance.md`) in `../daily-bots/reports/2026-11-24-content.md`. Production rule (24 Nov): frame the round 3 pouch on its top half; the lower lines "Good source of fibre" (Amber) and "Marine collagen peptides" (collagen source still open) stay out of focus and out of copy. No eating or taste shots until real samples exist.
+- 25 Nov 2026 designs (all bold-statement led): D1 Number stack "6 g fibre. about 25 kcal. 0 scoops.", D2 Zero shaker "5 g collagen. Zero shaker.", D3 "Fibre, squeezed." All Compliance PASS (`../daily-bots/reports/2026-11-25-compliance-am.md`); waiting for Justin's approval.
 - Pack in static ads (24 Nov 2026): round 3 pack images go through `../gooday-launch/static-ads/daily/2026-11-24/source/soften.py`, which soft-focuses the lower claim panel so it can't be read. 24 Nov designs (D1 What's in it, D2 Pick your pouch, D3 Big six) are all Compliance PASS and wait for Justin's approval: `../daily-bots/reports/2026-11-24-marketing.md`.
 
 ## Creators
@@ -64,6 +65,8 @@ Not found today: long-running ads with run dates for Jelly Me, Everydaze or Phys
 | Vital Proteins, Grüns, AG1 | see 23/24 Nov rows ("Stay Vital. Stay You." 168 days; "13-in-1" 162 days; "Every Woman Poops…" 4 variants) | | Two-beat slogan / one number / blunt contrast | | | Ideas "5 g collagen. Zero shaker.", "Fibre: yes. Shaker: no." |
 
 Compliance 25 Nov: number-led bold lines PASS; never "most/highest fibre" (BLOCK).
+
+Used 25 Nov (daily designs, `../gooday-launch/static-ads/daily/2026-11-25/`, report `../daily-bots/reports/2026-11-25-marketing.md`): DAVID number stack (203 days) → D1 Number stack; Vital Proteins two-beat slogan (168 days) → D2 Zero shaker and D3 Fibre, squeezed; Supergut plain statement (~3 months x5) → D3.
 
 ## Founder taste (24 Nov 2026)
 - Justin: "we like bold statements". Approved D1 "What's in it. What's not." (callout/ingredient-transparency format). Marketing bot: lead with bold, short, confident headlines; make at least 2 of 3 daily designs bold-statement led. Rejected/unanswered 24 Nov: D2 Pick your pouch, D3 Big Six.
