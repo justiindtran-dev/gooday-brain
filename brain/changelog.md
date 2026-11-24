@@ -33,3 +33,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 23 Nov 2026 | Outreach bot | suppliers.md | Added "Outreach status" table: 19 suppliers, RFQs drafted, none sent
 - 23 Nov 2026: Outreach bot sent 12 supplier RFQs (Justin approved via card); follow-ups due 27 Nov.
 - 24 Nov 2026, Inbox bot: suppliers.md, Nam Viet row notes a Gmail thank-you/nudge draft to Peter and Ninie (unsent).
+- 24 Nov 2026: D1 What's in it approved, placed on Miro 'Approved ads' frame; bold-statement preference recorded in marketing.md.

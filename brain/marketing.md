@@ -53,3 +53,8 @@ Long-running ads usually mean profitable ads. We adapt the idea (hook structure,
 | Vital Proteins | "Stay Vital. Stay You." several IDs, e.g. [Meta 1275524488057256](https://www.facebook.com/ads/library/?id=1275524488057256) ([admakeai](https://admakeai.com/advertisers/vital-proteins)) | Up to ~5 months, ended Sep 2026 | Brand slogan | Not stated; live library is all video ([runneth](https://runneth.com/library/vital-proteins)) | Brand memory | Idea bank |
 
 Not found today: long-running ads with run dates for Jelly Me, Everydaze or Physician's Choice (no tracker coverage). Check by hand in the Meta Ad Library (country AU and US).
+
+
+## Founder taste (24 Nov 2026)
+- Justin: "we like bold statements". Approved D1 "What's in it. What's not." (callout/ingredient-transparency format). Marketing bot: lead with bold, short, confident headlines; make at least 2 of 3 daily designs bold-statement led. Rejected/unanswered 24 Nov: D2 Pick your pouch, D3 Big Six.
+- Approved ads: static-ads/approved/<date>/ and Miro board https://miro.com/app/board/uXjVEOatDr0=/ (frame "Approved ads").

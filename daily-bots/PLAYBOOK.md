@@ -71,7 +71,7 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   directly. Fallback if they are missing: On approval,
   copy the approved PNGs to static-ads/approved/<date>/ and ask the inbox bot thread (message_thread to
   cmsg_014sJqu1KUzFn2T68FdNjdZp6McRBUR3UbNthYY6ZYJSVq, attaching Justin's approval message), which has Miro, to place them on the board.
-  APPROVAL: only designs Justin approves in his own message go to Miro (his Gooday board, link on the Notion
+  APPROVAL: only designs Justin approves in his own message go to Miro (his Gooday board https://miro.com/app/board/uXjVEOatDr0=/ frame "Approved ads", link also on the Notion
   Gooday project page) and get copied to /mnt/project-files/gooday-launch/static-ads/approved/. Rejected or
   unanswered designs stay in daily/ and are never published anywhere.
 - Procurement bot: compare manufacturers/suppliers on MOQ, unit cost, lead time, certifications (pectin/gelatin/
