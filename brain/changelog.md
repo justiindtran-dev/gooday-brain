@@ -2,6 +2,11 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 25 Nov 2026 | Nutritionist bot | formulation.md, decisions.md | Thai 7-Eleven benchmark verified online (Doi Kham ~11 g FOS/inulin + psyllium; Pananchita konjac; Posh 10 g; Jejuvita unconfirmed); WELLINUS + Goli Gut Stik added; new "10 g fibre question" (keep 7 g, sample 10 g); open decision. Report: daily-bots/reports/2026-11-25-nutritionist.md
+- 25 Nov 2026 | Compliance bot | claims.md | Big 6 / 6 g headlines PASS; superlatives (most/highest fibre) added to Red; 1 Open question (gentle fibre). Report: daily-bots/reports/2026-11-25-compliance.md
+- 25 Nov 2026 | Procurement bot | suppliers.md, decisions.md | Tombow replied 24 Nov (25 g stick, MOQ ~37k/SKU, LBG + carrageenan + xanthan, JPY 100% prepaid); ATIQ delivery delayed; RFQ comparison first row; open decision on Tombow terms. Report: daily-bots/reports/2026-11-25-procurement.md
+- 25 Nov 2026 | Finance bot | finance.md | Sections 10 (6/7/10 g fibre cost per serve) and 11 (Tombow terms, first-batch cash EST A$22k to 31k per SKU). Report: daily-bots/reports/2026-11-25-finance.md
+- 25 Nov 2026 | Marketing bot | marketing.md | Competitor ad library 25 Nov rows (DAVID 203-day number stack, Supergut imperative). Report: daily-bots/reports/2026-11-25-marketing-study.md
 - 24 Nov 2026 | Compliance bot | marketing.md | 24 Nov content set status corrected: end cards, Script 2 hook, Script 3 replacement shot and UGC mock-up lines are FIX (were "all PASS"). Report: daily-bots/reports/2026-11-24-compliance.md
 - 24 Nov 2026 | Marketing bot | marketing.md | Competitor ad library: 24 Nov rows (AG1/Bloom pointout, Bloom flavour trio + 216-day Mega Pack, Grüns 13-in-1, Vital Proteins); pack soft-focus rule for static ads; 3 new designs PASS. Report: daily-bots/reports/2026-11-24-marketing.md
 - 24 Nov 2026 | News bot | customers-and-market.md | Added Haleon/Benefiber weight-management partnership, WELLINUS collagen jelly sticks (Korea, OEM), Goli Stik jelly sticks. Report: daily-bots/reports/2026-11-24-news.md

@@ -16,7 +16,7 @@ Planning guide, not legal advice. Copied from the Notion [Claims sheet](https://
 | Drugs | | | Ozempic, Wegovy, Mounjaro, "GLP-1", "nature's Ozempic" |
 | Results | | | Before and after photos, "results in 30 days" |
 | Social proof | Real waitlist count, once true | | Fake reviews, invented stats, "sold out", fake timers |
-| Comparisons | "Less to swallow than a pile of pills" | | "Better than [brand]", "AG1 alternative", "Grüns for Aussies" |
+| Comparisons | "Less to swallow than a pile of pills" | | "Better than [brand]", "AG1 alternative", "Grüns for Aussies"; "most/highest fibre", "more fibre than any jelly", "#1 fibre jelly" (25 Nov: false vs 10 to 13 g Thai jellies) |
 
 **Meta rules on top:** no before and after, nothing implying you know someone's body ("Struggling with bloating?"), target 18+. Write "for people who…" not "you have…".
 
@@ -45,6 +45,8 @@ Added 22 Nov 2026 by the Compliance bot. Unclear rulings: until answered, treat 
 | 23 Nov | Exact Sch 4 condition and wording for fibre "contributes to regular laxation" and the vitamin C collagen/skin claim; is a dietary-context statement needed? | Formula 3a / 3b health claims |
 | 23 Nov | Can the vitamin C "collagen formation … skin" claim sit on a collagen-led pack without implying a collagen-for-skin claim? | Collagen SKU pack and ads |
 | 23 Nov | Is a squeeze jelly NPSC Category 1 (beverage) or Category 2 (food)? | All health claims (EST: both formulas pass either way) |
+| 25 Nov | Is "gentle fibre" / "gentle on your gut" a general-level health claim? Can "No inulin. No chicory." imply a digestive benefit (ACL)? | Positioning against high-inulin competitors |
 
 ## Changelog
+- 25 Nov 2026 (Compliance bot): "Big 6"/6 g headlines PASS (number-led, no ranking); superlatives and competitor comparisons added to Red; 1 Open question. Report: `../daily-bots/reports/2026-11-25-compliance.md`.
 - 23 Nov 2026 (Compliance bot): 5 Open items added from the formula claims review (`../daily-bots/reports/2026-11-23-compliance.md`, "Formula claims (23 Nov)"). Confirmed rulings not changed.

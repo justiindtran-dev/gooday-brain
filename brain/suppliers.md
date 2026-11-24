@@ -1,6 +1,6 @@
 # Suppliers
 
-12 RFQs emailed 23 Nov 2026; 7 form-only suppliers not yet contacted; no quotes yet (status 24 Nov 2026: see "Outreach status"). MOQ, cost and lead time marked EST are estimates; others are published by the supplier. Full table and sources: `../daily-bots/reports/2026-11-22-procurement.md`.
+12 RFQs emailed 23 Nov 2026; 7 form-only suppliers not yet contacted; no quotes yet. First technical reply: Tombow, 24 Nov (status 24 Nov 2026, 11 PM ICT: see "Outreach status"). MOQ, cost and lead time marked EST are estimates; others are published by the supplier. Full table and sources: `../daily-bots/reports/2026-11-22-procurement.md`.
 
 ## Shortlist
 
@@ -34,7 +34,7 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 
 | Company | Country | Email | Status | Date |
 |---|---|---|---|---|
-| ATIQ Food | China | info@atiqfoods.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| ATIQ Food | China | info@atiqfoods.com | SENT 23 Nov 2026; **delivery delayed** (server timeout, Gmail retries until ~26 Nov 2:11 PM ICT). If it bounces: website form/storefront or ask Litafood (same group) to forward | 24 Nov 2026 |
 | Litafood (Nantong Litai Jianlong) | China | info@litafood.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | Victory Foods China | China | info@victoryfoodscn.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | JoyGlo (Xiamen) Food Technology | China | sales@joyglofood.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
@@ -44,7 +44,7 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 | SDFOOD | South Korea | Sales@sdfoods.co.kr | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | COSMAX NBT | South Korea | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
 | Naturetech | South Korea | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
-| Tombow Beverage | Japan | overseas@tombow-b.jp | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
+| Tombow Beverage | Japan | overseas@tombow-b.jp | SENT 23 Nov; **REPLIED 24 Nov** (Yasue Akira): 25 g stick, MOQ ~37k sticks/SKU (pouch ~150k); stick line can't use pectin/gellan/gelatin, proposes LBG + carrageenan + xanthan, no konjac; JPY, 100% prepaid; no AU compliance guarantee. Asks 4 questions before quoting. Draft reply in 2026-11-25-procurement.md §2; **Justin decides carrageenan + terms** | 24 Nov 2026 |
 | ASEED BREW | Japan | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
 | Sand-M Global | Thailand | export@sandm.co.th | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 | ARNIFO | Thailand | form only | NOT SENT: Justin to paste draft into form (guide in 2026-11-24-procurement.md) | 23 Nov 2026 |
@@ -55,6 +55,8 @@ RFQ drafts by the Outreach bot, 23 Nov 2026: `../daily-bots/outreach/2026-11-23-
 | Bionutricia | Malaysia | business@bionutricia.com | SENT 23 Nov 2026 (Justin approved); no reply as of 24 Nov; follow-up due 27 Nov | 23 Nov 2026 |
 
 
+Update 24 Nov 2026, 11 PM ICT (Procurement bot): Tombow replied (above); ATIQ delivery delayed; others silent. 27 Nov follow-up draft (with optional 10 g fibre line) in `../daily-bots/reports/2026-11-25-procurement.md` §3.
+
 Outreach note (updated 24 Nov 2026, Procurement bot): Gooday Sent folder holds 12 RFQ threads (23 Nov, ~2:14 PM ICT), no bounces. Replies: 1 of 12 (Nam Viet handover). Follow-ups due Fri 27 Nov (3 business days) for any still silent; draft in `../daily-bots/reports/2026-11-24-procurement.md`. 23 Nov was a Japanese public holiday (Tombow reads it 24 Nov). 7 form-only suppliers still need Justin to paste (5-step guide in the same report).
 - 23 Nov 2026 2:29 PM: Nam Viet (Vinut) replied: Peter forwarded to colleague Ninie (sale3.gmp@vinuttrust.com) to handle. No quote yet; wait for Ninie.
 - Sand-M: RFQ emailed 23 Nov, no reply. Visit window closes 25 Nov (Justin leaves Bangkok); suggested phone call 24 Nov morning (report section 6).
@@ -64,4 +66,4 @@ Empty until quotes arrive. Columns: supplier, reply date, can make it, formats, 
 
 | Supplier | Reply date | Sample price + shipping | MOQ per SKU | Unit price tiers | Lead time | Konjac-free in writing | Certs |
 |---|---|---|---|---|---|---|---|
-| (none yet, 24 Nov 2026) | | | | | | | |
+| Tombow Beverage (JP) | 24 Nov 2026 | not yet | ~37,000 sticks (25 g); pouch ~150,000 | not yet | not yet | Yes, in email ("no konjac or glucomannan") | FSSC 22000 (site); copy not sent. Gel: LBG + carrageenan + xanthan only. Terms JPY, 100% prepaid |

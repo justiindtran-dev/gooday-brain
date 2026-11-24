@@ -55,6 +55,16 @@ Long-running ads usually mean profitable ads. We adapt the idea (hook structure,
 Not found today: long-running ads with run dates for Jelly Me, Everydaze or Physician's Choice (no tracker coverage). Check by hand in the Meta Ad Library (country AU and US).
 
 
+**25 Nov 2026 (Marketing bot, Tuesday deep study: bold statements)** · report `../daily-bots/reports/2026-11-25-marketing-study.md`
+
+| Brand | Ad / link | Days running (EST) | Hook | Format | Why it works | Used in |
+|---|---|---|---|---|---|---|
+| DAVID (protein, adjacent) | "28g Protein. 150 Calories. 0g Sugar." [Meta 921894010434469](https://www.facebook.com/ads/library/?id=921894010434469) | 203 days, 16 Mar to 6 Oct 2026 ([admakeai](https://admakeai.com/wrapped/david-protein.md)) | Three numbers, three full stops | Not stated | Checkable numbers = confident with no hype | Idea "6 g fibre. 25 kcal. 0 scoops." |
+| Supergut (fibre) | "Increase Your Fiber Intake with Supergut" (5+ IDs, e.g. [Meta 1262350012760049](https://www.facebook.com/ads/library/?id=1262350012760049)) | ~3 months each, ended Jul 2026 ([admakeai](https://admakeai.com/advertisers/supergut)) | Plain imperative | Not stated | Clear job to be done; many versions = kept winning | Idea bank |
+| Vital Proteins, Grüns, AG1 | see 23/24 Nov rows ("Stay Vital. Stay You." 168 days; "13-in-1" 162 days; "Every Woman Poops…" 4 variants) | | Two-beat slogan / one number / blunt contrast | | | Ideas "5 g collagen. Zero shaker.", "Fibre: yes. Shaker: no." |
+
+Compliance 25 Nov: number-led bold lines PASS; never "most/highest fibre" (BLOCK).
+
 ## Founder taste (24 Nov 2026)
 - Justin: "we like bold statements". Approved D1 "What's in it. What's not." (callout/ingredient-transparency format). Marketing bot: lead with bold, short, confident headlines; make at least 2 of 3 daily designs bold-statement led. Rejected/unanswered 24 Nov: D2 Pick your pouch, D3 Big Six.
 - Approved ads: static-ads/approved/<date>/ and Miro board https://miro.com/app/board/uXjVEOatDr0=/ (frame "Approved ads").

@@ -30,6 +30,7 @@ The same actives work in both formats. The 30 g stick is denser, so its gel and 
 | Physician's Choice Fiber Gummies | 2 gummies | 5 g chicory root (inulin) | none | "no added sugar or artificial sweeteners" (not named) | Pectin | 15 | <1 g | US$0.70 → A$1.08 | [GNC](https://www.gnc.com/fiber/620453.html) |
 | **Physician's Choice Fiber Jelly** (US, launched Oct 2026) | squeeze stick (size not published) | 6 g "prebiotic fibre" (type not published) | **600 mcg chromium picolinate** (not allowed as an added mineral in an AU food) | Not published | Not published | 30 | <1 g | Not published (waitlist, 40% off first box) | [physicianschoice.com](https://physicianschoice.com/pages/fiber-jelly), [Nutraceuticals World](https://www.nutraceuticalsworld.com/breaking-news/physicians-choice-launches-fiber-jelly/) |
 | **Jelly Me Cuti Activ Fiber** (Sand-M, TH) | 30 g stick | 7 g, mostly acacia (≈6.8 g of a 90% fibre ingredient) | apple and blackcurrant extracts | Sucralose + acesulfame K | **Konjac + carrageenan + LBG** (banned route for Gooday) | low (illegible) | 0 g | ฿20 → A$0.85 | [Watsons TH](https://www.watsons.co.th/en/handy-herb-handy-herb-jelly-me-cuti-fiber-30g./p/BP_318844), [procurement report](../daily-bots/reports/2026-11-22-procurement.md) |
+| **Goli Gut Stik** (US, 12 Nov 2026) | 25 g jelly stick | **1.7 g**: 1 g chicory root + 0.7 g XOS; heat-treated B. longum | none | not stated | not stated | 25 to 30 | ~half of 7 to 9 g carbs | US$2.50 → A$3.84 | [Stack3d](https://www.stack3d.com/2026/11/goli-nutrition-stik-series/) (24 Nov) |
 | Olipop (prebiotic soda) | 355 mL can | 9 g: cassava fibre + chicory and Jerusalem artichoke inulin | botanical extracts | Stevia + cassava syrup + juice | n/a | 45 | 4 g | US$2.28 → A$3.51 | [H-E-B Olipop](https://www.heb.com/product-detail/olipop-tropical-punch-9g-fiber-prebiotic-soda/6637501) |
 
 ### Collagen
@@ -44,6 +45,7 @@ The same actives work in both formats. The 30 g stick is denser, so its gel and 
 | FANCL Collagen Jelly (JP) | 20 g stick | **3 g** collagen peptides | n/s | HA, ceramide, rosebud | n/s | n/s | n/s | n/s | US$2.20 → A$3.38 | [Weee](https://www.weee.com/en/product/FANCL-Collagen-Jelly-Bar-20g-x-10-Bars/2866264) |
 | Swisse Collagen Peptides Gummies (AU) | 3 gummies | **Verisol B (bovine), 27.8% of gummy**; about 2.5 g (EST from %) | acerola (mg not stated) | none | Maltitol, sorbitol, stevia | Bovine gelatine | n/s | "99% sugar free" | A$29.99 / 15 serves → A$2.00 | [swisse.com.au](https://swisse.com.au/products/swisse-collagen-peptides-gummies) |
 | Nature's Way High Strength Collagen Vita Gummies (AU) | 2 pastilles | "2,500 mg" hydrolysed collagen (page also says 1.25 g: conflict) | not stated | vit E, zinc | Sucralose, maltitol, sorbitol | n/s | n/s | sugar free | A$18.99 / 25 → A$0.76 (sale) | [Chemist Warehouse](https://www.chemistwarehouse.com.au/buy/117601/nature-s-way-adult-vita-gummies-sugar-free-high-strength-collagen-50-gummies) |
+| **WELLINUS Collagen jelly stick** (KR, The Honest Farmer) | stick (~25 g EST) | low-MW **marine (cod)** collagen; mg not published in English listings | n/s | 60M+ sticks sold (company); OEM/ODM factory | n/s ('no added sugar') | n/s | n/s | n/s | US$2.72 → A$4.18 (US reseller) | [PR Newswire Asia](https://en.prnasia.com/releases/global/the-honest-farmer-co-ltd-s-wellinus-collagen-jelly-sticks-surpass-60-million-sticks-sold-in-korea-follow-up-products-in-development-557623.shtml), [Underyours](https://underyours.com/products/wellinus-collagen-full-of-mango-jelly-stick-marine-collagen-fast-absorbing-snack-ultra-low-weight-molecular-marine-collagen-haccp-certified-22-05-oz-pack-of-25) (24 Nov) |
 | Morinaga Oishii Collagen Drink (JP) | 125 mL carton | **10 g** collagen peptide (incl. pork), 10 g protein | added (mg n/s) | none | Sugar + stevia + monk fruit | n/a | 72 | ≤8 g carb | US$3.68 → A$5.65 | [Japanese Taste](https://int.japanesetaste.com/products/morinaga-oishi-collagen-drink-peach-flavor-12-cartons) |
 
 **What the benchmark shows**
@@ -174,14 +176,25 @@ Daily targets used: fibre 30 g (NIP reference; women's AI 25 g), protein 50 g, v
 - Whether to pay about A$0.05 more per serve for the PHGG-led "best" fibre and a low-FODMAP certification.
 - Ask Finance to re-run COGS at these ingredient costs (A$0.15 to 0.24 per serve, EST), which may push Sand-M to the top of its ฿5 to 9 range.
 
-## Thai 7-Eleven field benchmark (Justin's photos, 23 Nov 2026; figures read from labels, to verify)
-| Product | Format | Key dose | Note |
-|---|---|---|---|
-| Doi Kham Fiber Jelly | 25 g stick | ~13 g fibre | Highest fibre seen; check fibre type (likely polydextrose/inulin) and gel (konjac?) |
-| Posh Jelly Fiber (tamarind) | 28 g stick | ~10 g fibre + probiotics | |
-| Pananchita Per Peach / Per Melon | 50 g spout pouch | ~10.8 g fibre | Closest to our pouch format and peach flavour |
-| Jejuvita Gluta Glassy | 25 g stick | ~10 g fish collagen | Collagen stick benchmark; also glutathione |
-| Body Shape EZE JellyTokz | 25 g stick | ~3.6 g fibre | Low dose |
-| Nuui Fiberry Jelly | 25 g stick | "High fibre" | |
-| Sand-M Jelly Me Cuti Activ Fiber | 30 g stick | see 22 Nov procurement report | konjac gel |
-Implication: Thai sticks carry 10-13 g fibre vs our 6-7 g. In AU, "Big 6" still beats local fibre products (e.g. ~3.5 g), but avoid superlatives like "most fibre"; Nutritionist to check whether 10 g in a pectin (non-konjac) gel is feasible and tolerable (GI comfort), and Compliance to re-check the "Big 6" angle. Samples being hand-carried to Melbourne 26 Nov for tasting, texture and supplier reference.
+## Thai 7-Eleven field benchmark (Justin's photos 23 Nov; checked online 24 Nov 2026)
+Verify every figure against the packs arriving 26 Nov. Detail and sources: `../daily-bots/reports/2026-11-25-nutritionist.md`.
+| Product | Format | Key dose (label / listing) | Fibre or actives | Gel | Price per serve | Note |
+|---|---|---|---|---|---|---|
+| Doi Kham Fiber Jelly (tamarind-honey) | 25 g sachet | ~11 g fibre ingredients: FOS + inulin 10,000 mg, psyllium 1,000 mg. "13" not confirmed as grams (official page: 5 g carbs, 20 kcal) | Inulin/FOS (high-FODMAP), psyllium, amla | not stated | ฿49 ≈ A$2.09 | Thai dietary supplement; added vit C 100% + B6 60% Thai RDI. [doikham.co.th](https://www.doikham.co.th/product/fiber-jelly-tamarind-honey-flavor) |
+| Pananchita Per Peach / Per Melon ("Fiber Buk") | 50 g spout pouch | ~10.8 g fibre (photo); sister Per Buk lists 11,000 mg | FOS, inulin, psyllium, gum arabic, oat beta-glucan, chitosan, B. coagulans, garcinia, ascorbic acid | **Konjac** ("บุก" in name) | ฿49 to 59 ≈ A$2.09 to 2.51 | Closest to our pouch format and peach flavour; stevia |
+| Jejuvita Gluta Glassy (lychee-rose) | 25 g strip | ~10 g fish collagen (photo, not confirmed online); sister product lists 10,000 mg collagen tripeptide + 250 mg glutathione | Fish collagen, glutathione | not stated | sister ≈ ฿39 ≈ A$1.66 | Collagen stick benchmark |
+| Posh Medica Jelly Fiber (tamarind) | 25 to 28 g sachet | 10,000 mg fibre + probiotics (pack, per review) | Tamarind fibre blend | not stated | ฿39 ≈ A$1.66 | "0% sugar" |
+| Nuui Fiberry Jelly | 25 g | 6,000 mg | FOS, psyllium, inulin, GOS | not stated | n/f | Xylitol |
+| Body Shape EZE JellyTokz | 25 g | ~3.6 g fibre (photo) | | | | Low dose |
+| Sand-M Jelly Me Cuti Activ Fiber | 30 g stick | 7 g, mostly acacia | | Konjac + carrageenan + LBG | ฿20 ≈ A$0.85 | see section 1 |
+
+**Implication (25 Nov):** the Thai 10 to 13 g comes from inulin/FOS, psyllium and konjac, in the Thai *supplement* category with added vitamins. None of that maps to an AU general food. Keep 7 g as the core; see "10 g fibre question" below.
+
+## 10 g fibre question (Nutritionist bot, 25 Nov 2026; proposal, Justin decides)
+- **Feasibility:** 10 g label (design ~11 g, ~12.2 g of fibre ingredients) is ~49% w/w in a 25 g stick (not realistic), ~41% in 30 g (high risk), 30 to 35% in a 35 to 40 g stick (trial-able, similar density to today's 7 g/30 g), ~10% in a 120 g pouch (easy). Resistant dextrin-led only; cap acacia at ~2.5 g.
+- **GI:** 10 g of RD/acacia/PHGG is tolerable for most adults. 10 g of inulin/FOS often brings gas and bloating.
+- **Cost (EST):** ingredients A$0.15 (7 g) → A$0.18 (10 g); landed +A$0.08 to 0.11 a serve with the bigger stick ([finance.md](finance.md) section 10).
+- **Claims:** no FSANZ tier above "excellent source" (≥7 g); 10 g adds only a bigger number.
+- **Recommendation:** Good: 6 g. **Better (recommended): 7 g core stick now, and ask factories to sample a 10 g RD-led option** (35 to 40 g stick or pouch). Best: a separate 10 g pouch/40 g stick SKU after the ad test.
+- **Tombow note (24 Nov):** its stick line can't use pectin, gellan or gelatin and proposes LBG + carrageenan + xanthan. A soft LBG + xanthan (+ a little iota) gel may be squeezable; a firm kappa + LBG gel is not. Open in [decisions.md](decisions.md).
+- Tasting protocol for the 26 Nov samples (8 to 10 tasters, blind, 1 to 9 hedonic + JAR + texture + bench tests): see the 25 Nov report.

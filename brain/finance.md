@@ -1,6 +1,6 @@
 # Finance: unit economics v1
 
-Finance bot, 23 Nov 2026 (status checked 24 Nov 2026). **No supplier has quoted yet**: 12 RFQs sent 23 Nov, 1 handover reply (see [suppliers.md](suppliers.md)), so nearly every cost here is **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
+Finance bot, 23 Nov 2026 (status checked 24 Nov 2026, 11 PM ICT). **No supplier has quoted a price yet**: 12 RFQs sent 23 Nov; Tombow (JP) gave MOQ and terms on 24 Nov, no price (see [suppliers.md](suppliers.md)), so nearly every cost here is **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
 
 ## What this page says
 1. **The 20 to 30 g stick is the money format.** The 28-pack weighs about 1 kg as sticks and about 3.8 kg as 120 g pouches. The pouch costs more to make and far more to post, and it never beats the stick.
@@ -128,3 +128,15 @@ Detail: `../daily-bots/reports/2026-11-24-finance.md`.
 | **Total EST** | **≈ A$270** | **≈ A$1,380** | **≈ A$3,185** |
 
 Duty and import GST EST A$0 if each consignment stays under A$1,000. Not included: AU lab screen before tasting (EST A$150 to 300 a sample; test the 2 or 3 finalists only) and stage-2 custom prototypes (R&D EST US$0 to 500 each, top 2 only). The mid case sits near the "comfortable" A$1,200 samples line in section 7 and well above the "lean" A$450. Suggested (Justin decides): stock samples first, courier quote in writing before paying anything, collagen samples only from finalists.
+
+## 10. Fibre dose cost: 6 g vs 7 g vs 10 g (25 Nov 2026, all EST)
+Detail: `../daily-bots/reports/2026-11-25-finance.md`. Sand-M stick base, sea freight.
+| Per serve, A$ | 6 g (30 g stick) | 7 g (30 g, current) | 10 g (40 g stick) | 10 g (120 g pouch) |
+|---|---|---|---|---|
+| Ingredients (Nutritionist EST) | 0.12 | 0.15 | 0.18 | 0.18 |
+| Landed | 0.33 | 0.36 | 0.44 to 0.47 | 0.68 |
+| Contribution per A$59/28 order | ≈28.50 | ≈27.70 | ≈24.60 to 25.40 | ≈13.30 |
+The 40 g stick adds ~280 g per 28-pack; if it crosses a postage band, add ≈A$1 to 2 per order (EST). Finance view: keep 7 g for launch; a 10 g SKU needs about A$2 more per pack, or better conversion.
+
+## 11. Tombow (Japan) terms and first-batch cash (24 Nov 2026)
+Tombow email 24 Nov: 25 g stick, MOQ ~37,000 sticks per SKU (pouch ~150,000), JPY only, **100% paid in advance** (development, printing, production). No price yet. EST cash for one SKU: stock A$16.7k to 24.1k (A$0.45 to 0.65 a stick, EST) + development/film A$1.5k to 3k + sea freight ≈A$2.6k + lab A$1.5k ≈ **A$22k to 31k**, all before shipping. Duty likely 0% under JAEPA (broker to confirm). A 5% yen move ≈ A$1k.
