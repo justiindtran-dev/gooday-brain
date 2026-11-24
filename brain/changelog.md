@@ -40,3 +40,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 24 Nov 2026, Inbox bot: suppliers.md, Nam Viet row notes a Gmail thank-you/nudge draft to Peter and Ninie (unsent).
 - 24 Nov 2026: D1 What's in it approved, placed on Miro 'Approved ads' frame; bold-statement preference recorded in marketing.md.
 - 24 Nov 2026: Thai 7-Eleven benchmark table added to formulation.md (to verify in next Nutritionist run).
+- 25 Nov 2026, Inbox bot: suppliers.md, Tombow row notes a Gmail holding-reply draft (clarifying questions on carrageenan type, LBG+xanthan-only option, konjac cross-contact, 7 g fibre at 25 g, indicative fees), unsent.
