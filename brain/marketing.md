@@ -71,3 +71,4 @@ Used 25 Nov (daily designs, `../gooday-launch/static-ads/daily/2026-11-25/`, rep
 ## Founder taste (24 Nov 2026)
 - Justin: "we like bold statements". Approved D1 "What's in it. What's not." (callout/ingredient-transparency format). Marketing bot: lead with bold, short, confident headlines; make at least 2 of 3 daily designs bold-statement led. Rejected/unanswered 24 Nov: D2 Pick your pouch, D3 Big Six.
 - Approved ads: static-ads/approved/<date>/ and Miro board https://miro.com/app/board/uXjVEOatDr0=/ (frame "Approved ads").
+- 25 Nov: approved D2 Zero shaker (peach, maroon field, giant type) and D3 Fibre, squeezed (grape). Justin: "I don't like the apple ad" (D1 Number stack, apple). Avoid repeating that look; no reason given yet.

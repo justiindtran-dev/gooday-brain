@@ -7,6 +7,8 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 | Date | Decision | Why | Who |
 |---|---|---|---|
 | 23 Nov 2026 | Round 3 packaging (21 Nov) is the current pack for all ads and mockups: pouches (fibre in green apple, peach, green grape; collagen in peach with berry panel) and 14-pouch outer bags | Justin likes it; ads must match the latest pack | Justin |
+| 25 Nov 2026 | Approved 25 Nov ads D2 Zero shaker (peach collagen) and D3 Fibre, squeezed (grape) for Miro; rejected the apple ad (D1 Number stack) | Founder taste | Justin |
+| 25 Nov 2026 | Send RFQ to Kolmar BNH (Korea, Boots UK jelly-stick maker) | Proven Western-retail jelly-stick OEM | Justin |
 | 24 Nov 2026 | Hand-carry Thai 7-Eleven jelly benchmarks to Melbourne (Doi Kham, Pananchita, Jejuvita, Posh, Sand-M; ~45 packs) | Tasting, texture benchmark, factory reference | Justin |
 | 24 Nov 2026 | Approved ad D1 "What's in it. What's not." (24 Nov) for Miro; founders like bold statements | Bold, confident headline style wins | Justin |
 | 23 Nov 2026 | Send RFQs now to 12 Asian jelly makers (CN, VN, KR, JP, TH, MY) before the ad test finishes; quote both formats and both collagen types | Get sample price and MOQ early; supersedes "manufacturer message only after an angle wins" for RFQs (no orders or samples yet) | Justin |

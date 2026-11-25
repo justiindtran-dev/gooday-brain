@@ -67,3 +67,4 @@ Empty until quotes arrive. Columns: supplier, reply date, can make it, formats, 
 | Supplier | Reply date | Sample price + shipping | MOQ per SKU | Unit price tiers | Lead time | Konjac-free in writing | Certs |
 |---|---|---|---|---|---|---|---|
 | Tombow Beverage (JP) | 24 Nov 2026 | not yet | ~37,000 sticks (25 g); pouch ~150,000 | not yet | not yet | Yes, in email ("no konjac or glucomannan") | FSSC 22000 (site); copy not sent. Gel: LBG + carrageenan + xanthan only. Terms JPY, 100% prepaid |
+- 25 Nov 2026: Kolmar BNH (Korea; makes Boots UK fibre/collagen jelly sticks) approved by Justin for RFQ. Form only (no public email): https://kolmarbnh.co.kr/business/production. Draft: daily-bots/outreach/2026-11-25-kolmar-bnh-form.md. Status: waiting for Justin to submit the form.

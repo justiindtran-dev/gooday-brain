@@ -43,3 +43,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 25 Nov 2026, Inbox bot: suppliers.md, Tombow row notes a Gmail holding-reply draft (clarifying questions on carrageenan type, LBG+xanthan-only option, konjac cross-contact, 7 g fibre at 25 g, indicative fees), unsent.
 - 25 Nov 2026 | News bot | customers-and-market.md | Added Boots UK / Kolmar BNH fibre + collagen jelly sticks and First Day 8 g fibre + collagen packets. Report: daily-bots/reports/2026-11-25-news.md
 - 25 Nov 2026 | Marketing bot | marketing.md | 25 Nov designs (D1 Number stack, D2 Zero shaker, D3 Fibre squeezed; all bold, Compliance PASS) and which competitor patterns they used. Reports: daily-bots/reports/2026-11-25-marketing.md, 2026-11-25-compliance-am.md
+- 25 Nov 2026: D2/D3 approved and on Miro; apple ad rejected; Kolmar BNH RFQ approved.
