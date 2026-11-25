@@ -45,3 +45,6 @@ One line per change: date, who, file, what. Newest at the top.
 - 25 Nov 2026 | Marketing bot | marketing.md | 25 Nov designs (D1 Number stack, D2 Zero shaker, D3 Fibre squeezed; all bold, Compliance PASS) and which competitor patterns they used. Reports: daily-bots/reports/2026-11-25-marketing.md, 2026-11-25-compliance-am.md
 - 25 Nov 2026: D2/D3 approved and on Miro; apple ad rejected; Kolmar BNH RFQ approved.
 - 25 Nov 2026: D2 Pick your pouch (24 Nov) approved and placed on Miro.
+- 26 Nov 2026 (overnight 25 Nov) | Procurement bot | suppliers.md | Status refreshed: Bionutricia first indicative quote (5k pouch US$1.50 to 2.00; 30k sachet US$0.60 to 0.80; R&D US$100/SKU), Nam Viet no pouch line (offers cup/shot), Tombow holding reply sent by Justin 25 Nov, ATIQ still retrying, 8 silent get 27 Nov follow-ups (ready list). Report: daily-bots/reports/2026-11-26-procurement.md
+- 26 Nov 2026 (overnight 25 Nov) | Finance bot | finance.md | Status line; section 9 sample-budget update (≈A$1.65k mid EST); new section 12 Bionutricia quote + Tombow cash vs low-MOQ pilot. Report: daily-bots/reports/2026-11-26-finance.md
+- 26 Nov 2026 (overnight 25 Nov) | Content bot | marketing.md | Linked 26 Nov content set (3 scripts + UGC brief, bold-statement style, blind Thai tasting) and the tasting-content rule. Report: daily-bots/reports/2026-11-26-content.md

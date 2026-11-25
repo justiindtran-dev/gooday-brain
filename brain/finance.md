@@ -1,6 +1,6 @@
 # Finance: unit economics v1
 
-Finance bot, 23 Nov 2026 (status checked 24 Nov 2026, 11 PM ICT). **No supplier has quoted a price yet**: 12 RFQs sent 23 Nov; Tombow (JP) gave MOQ and terms on 24 Nov, no price (see [suppliers.md](suppliers.md)), so nearly every cost here is **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
+Finance bot, 23 Nov 2026 (status checked 25 Nov 2026, 11 PM ICT). **First indicative price: Bionutricia (MY), 25 Nov** (section 12); no firm quote yet. Tombow (JP) gave MOQ and terms on 24 Nov, no price (see [suppliers.md](suppliers.md)). Nearly every cost here is still **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
 
 ## What this page says
 1. **The 20 to 30 g stick is the money format.** The 28-pack weighs about 1 kg as sticks and about 3.8 kg as 120 g pouches. The pouch costs more to make and far more to post, and it never beats the stick.
@@ -129,6 +129,8 @@ Detail: `../daily-bots/reports/2026-11-24-finance.md`.
 
 Duty and import GST EST A$0 if each consignment stays under A$1,000. Not included: AU lab screen before tasting (EST A$150 to 300 a sample; test the 2 or 3 finalists only) and stage-2 custom prototypes (R&D EST US$0 to 500 each, top 2 only). The mid case sits near the "comfortable" A$1,200 samples line in section 7 and well above the "lean" A$450. Suggested (Justin decides): stock samples first, courier quote in writing before paying anything, collagen samples only from finalists.
 
+Update 25 Nov 2026: Bionutricia R&D is US$100/SKU (quote, credited on bulk; courier extra). Thai benchmark packs already bought (EST A$75 to 110). Revised total EST ≈ A$500 low / A$1,650 mid / A$3,300 high. Detail: `../daily-bots/reports/2026-11-26-finance.md` §3.
+
 ## 10. Fibre dose cost: 6 g vs 7 g vs 10 g (25 Nov 2026, all EST)
 Detail: `../daily-bots/reports/2026-11-25-finance.md`. Sand-M stick base, sea freight.
 | Per serve, A$ | 6 g (30 g stick) | 7 g (30 g, current) | 10 g (40 g stick) | 10 g (120 g pouch) |
@@ -140,3 +142,13 @@ The 40 g stick adds ~280 g per 28-pack; if it crosses a postage band, add ≈A$1
 
 ## 11. Tombow (Japan) terms and first-batch cash (24 Nov 2026)
 Tombow email 24 Nov: 25 g stick, MOQ ~37,000 sticks per SKU (pouch ~150,000), JPY only, **100% paid in advance** (development, printing, production). No price yet. EST cash for one SKU: stock A$16.7k to 24.1k (A$0.45 to 0.65 a stick, EST) + development/film A$1.5k to 3k + sea freight ≈A$2.6k + lab A$1.5k ≈ **A$22k to 31k**, all before shipping. Duty likely 0% under JAEPA (broker to confirm). A 5% yen move ≈ A$1k.
+
+## 12. First quote (Bionutricia, 25 Nov 2026) and pilot vs Tombow (all EST unless "quote")
+Detail: `../daily-bots/reports/2026-11-26-finance.md`. Bionutricia indicative (quote 25 Nov 2026, ex packaging, freight, bank charges): 150 g pouch US$1.50 to 2.00 at 5,000 MOQ; 30 g sachet US$0.60 to 0.80 at 30,000 MOQ; foil 4 rolls × US$250 to 320; R&D US$100/SKU.
+| One SKU, sea, A$59/28 | Units | Cash out | Landed / serve | Contribution / order |
+|---|---|---|---|---|
+| Tombow stick (100% JPY prepaid; price EST) | 37,000 | A$22k to 31k | A$0.55 to 0.80 | A$15 to 22 |
+| Bionutricia pouch 150 g | 5,000 | A$18k to 23k | A$2.86 to 3.78 | **−A$48 to −74** |
+| Bionutricia sachet 30 g | 30,000 | A$37k to 48k | A$1.04 to 1.36 | −A$0.40 to +8.60 |
+| Sand-M stick (unquoted) | 20,000 | ≈ A$12k | ≈ A$0.36 | ≈ A$27.70 |
+Finance view: the 5k pouch is a paid experiment (it loses money on every pack); Tombow is positive per pack but needs about A$20k to 29k of cash at risk per SKU before any sale, plus FX risk. Wait for the 27 Nov follow-ups (Sand-M, Litafood) and Tombow's answers. Founders decide.
