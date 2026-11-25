@@ -51,3 +51,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 26 Nov 2026, Inbox bot: suppliers.md, Bionutricia and Nam Viet rows note Gmail draft replies (from procurement §3/§4, unsent, PASS); ATIQ still retrying (no bounce yet at 4:45 AM ICT).
 - 26 Nov 2026 | Marketing bot | marketing.md | 26 Nov designs (D1 Fibre: yes. Shaker: no.; D2 Introducing: jelly for grown-ups.; D3 Gym bag, sorted.; all Compliance PASS), competitor library 26 Nov rows (Bloom "Introducing" 216 days re-checked), founder-taste note on the rejected apple look; 25 Nov line updated with approvals. Reports: daily-bots/reports/2026-11-26-marketing.md, 2026-11-26-compliance.md
 - 26 Nov 2026 | News bot | none | Quiet day; no competitor move needing a brain change. Report: daily-bots/reports/2026-11-26-news.md
+- 26 Nov 2026: Bot schedule switched to Australia/Melbourne (same clock times).

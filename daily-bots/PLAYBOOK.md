@@ -1,6 +1,6 @@
 # Gooday daily assistant and bots: playbook
 
-Read this at the start of every daily run. Justin is in Asia/Ho_Chi_Minh (UTC+7).
+Read this at the start of every daily run. Justin is in Australia/Melbourne (UTC+7).
 
 ## Shared brain (read first, update last)
 The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README.md.
@@ -23,7 +23,7 @@ The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README
 - Notion mirror: after any brain change, Ops bot updates the matching page under the Notion page "Gooday brain (start here)"
   (https://app.notion.com/p/42014ab463ca81a3b502ef580d13a017, one sub-page per brain file) so the co-founder can read it. Markdown is the master; never copy Notion edits back without checking.
 
-## Schedule (Asia/Ho_Chi_Minh until Justin says otherwise)
+## Schedule (Australia/Melbourne from 26 Nov 2026)
 - 8:43 PM daily, EVENING WRAP: process everything Justin said today (decisions into brain/decisions.md, approvals ->
   approved/ + Miro request, Notion statuses), queue tomorrow's tasks in Notion, then start the OVERNIGHT bots
   (Procurement + supplier follow-ups, Finance, Competitor & pricing on Sundays, Content on Mon/Wed/Fri, any long research).
