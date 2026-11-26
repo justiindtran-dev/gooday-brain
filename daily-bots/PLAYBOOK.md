@@ -30,6 +30,10 @@ The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README
   Ops bot syncs the brain with GitHub at the end. Posts only if something needs Justin tonight.
 - 4:58 AM daily, BRIEF: post today's Gooday tasks + overnight results headline, then start MORNING bots
   (News, Marketing designs, Compliance check of every draft made since the last report).
+- AD PACK SPRINT (from 27 Nov, Justin: "crunch time, finalise our ad pack"): the Marketing bot runs 4 times a day:
+  4:58 AM (with the morning bots), plus 10:37 AM, 2:37 PM and 6:37 PM as its own scheduled run ("Gooday ad pack sprint"). Each run makes 2 new
+  designs (3 in the 4:58 run), runs Compliance on them, and posts them straight to Justin with the COMPETITOR
+  REFERENCE for each (see Marketing bot). Files go to static-ads/daily/<date>/run-<HHMM>/.
 - 6:11 AM daily, REPORT: one combined report (see Outputs). Ops bot syncs the brain with GitHub.
 - Sunday 6:47 PM, CEO WEEKLY: Chief of staff bot writes the weekly summary for Justin and Kevin.
 
@@ -58,6 +62,15 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
       at thumbnail size, brand look (brain/brand.md), clear call to action, believable/no hype. Write 2-3 specific flaws.
    3. Make v2 fixing them (v3 if any score is still under 4). Keep the critique in the report.
    4. Compliance bot checks the final copy (PASS/FIX). Only PASS goes to Justin.
+  COMPETITOR REFERENCE (Justin, 26 Nov, required for EVERY ad shown to him): next to each Gooday design, show the
+  competitor ad it took inspiration from; if it wasn't inspired by one, show the most similar-looking competitor ad.
+  For each reference give: brand, platform, link to the ad (Meta Ad Library / TikTok Creative Center / brand page),
+  a screenshot saved to static-ads/daily/<date>/refs/<brand>-<id>.png (internal reference only, never published or
+  reused in our designs), and its PERFORMANCE: Meta Ad Library: start date and days running (long-running = proven
+  spend), number of active versions/variations, platforms; EU reach figures where the library shows them; TikTok
+  Creative Center: likes, comments, shares, CTR/budget level when shown. If no stats are public, say so plainly and
+  give "why it works" (hook, offer, layout, proof) instead. Never invent or estimate numbers without labelling EST.
+  The post to Justin shows each pair as: Gooday design | competitor reference + stats | what we borrowed and changed.
   COMPETITOR STUDY (part of the daily designs; overnight on Tue/Thu/Sat for a deeper pass): look at ads that have
   run a long time (a long-running ad usually means it's profitable) in the Meta Ad Library (facebook.com/ads/library,
   country Australia and US) and TikTok Creative Center top ads for Grüns, AG1, Bloom, Vital Proteins, Jelly Me,
