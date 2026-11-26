@@ -62,3 +62,9 @@ Internal admin guidance only. No customer-facing wording, no claims, nothing fil
 None new. Existing Open items unchanged.
 
 Brain updated: claims.md (2 rules in "Rules learned" + changelog line), changelog.md.
+
+## Addendum, 6:11 AM report (27 Nov)
+- run-0458 D1 "Tear. Squeeze. Done." PASS (copy pre-cleared above; footer readable on scrim).
+- run-0458 D2 "Collagen, with Kakadu plum." PASS with the three conditions above (no vit C/glow/skin/superfood words or images: met; caption "Also called gubinge", no origin claim). Inset photo is CC BY 4.0: credit or replace before paid use.
+- run-0458 D3 "Gym bag? Peach packed." PASS (uses the Compliance fix wording; gym bag as an object only, no workout imagery).
+- run-2231 D2 "Skip the glass." FIX applied (footer scrim, 96% white text) -> PASS.
