@@ -117,7 +117,7 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   one UGC creator brief per week, using approved angles only; Compliance bot checks them.
 - Inbox bot: triage goodaysportsjelly@gmail.com (urgent / reply needed / FYI), draft replies, flag supplier and
   consultant replies to Procurement and Research. NEEDS a session that has the Gmail connector; this thread doesn't.
-  Runs daily at 4:41 AM as its own scheduled task (trig_014VoZPWirGCULtGvLezyUR4, fresh thread each run), writing
+  Runs daily at 4:41 AM as its own scheduled task (trig_019wzJpvijg7WcYJTHZRmcSX (Melbourne; old trig_014VoZPWirGCULtGvLezyUR4 disabled), fresh thread each run), writing
   reports/<date>-inbox.md before the brief. Drafts only, never sends.
 - Legal & admin bot: keeps brain/legal.md, the paperwork register: every registration, licence, filing, contract
   and policy Gooday needs (company/ABN/GST, business name, trade marks, domain, food business registration with
