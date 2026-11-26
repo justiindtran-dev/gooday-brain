@@ -15,12 +15,20 @@ Legal & admin bot, first version 23 Nov 2026. **Planning guide, not legal, tax o
 4. **Co-founder agreement + IP assignment**, signed before money comes in or a supplier gets the formula. Draft term sheet in `../daily-bots/legal/`. A lawyer turns it into a shareholders agreement (EST A$1.5k to 4k).
 5. **Trade mark TM Headstart** for Gooday in classes 5 and 29 (A$200 a class), before you buy a domain or print packs ([brand.md](brand.md)).
 
+## This week from Melbourne (added 27 Nov 2026, Legal & admin bot)
+Justin is back in Australia, so the identity-based steps are now easy. Report: `../daily-bots/reports/2026-11-27-legal.md`.
+- **Director ID:** apply online at ABRS with myID (Standard identity strength); free. Kevin applies for his own. Never store the number in the brain.
+- **Accountant chat (30 min, EST A$200 to 500):** structure, equity/vesting, trust, early GST, GST status of the jelly. Bring `../daily-bots/legal/registration-answer-sheet.md`.
+- **TM Headstart:** prepare classes 5 + 29 (A$400) but lodge only after the name decision (decisions.md Open).
+- **Thai benchmark packs (hand-carried, ~45):** traveller import; food must be declared on arrival. Tasting only, no resale or giveaways. The BICON check that matters is before any factory collagen/gelatin sample ships.
+- **NDA before any formula:** Bionutricia R&D (or any supplier asking for the recipe) triggers the NDA step; China needs a lawyer-checked NNN.
+
 ## Phase 1: Now (pre-launch, waitlist and ad test)
 
 | Item | What it is | Req / Rec | Cost (A$) | Who | Status | Official link |
 |---|---|---|---|---|---|---|
 | Business structure decision | Sole trader (only one person can be the owner, so with two founders it is really a partnership) vs **Pty Ltd company** (limited liability, both founders as shareholders and directors, easier to raise money). A company pays tax at 25% (base rate entity, EST) and files its own return | Required (pick one) | Accountant EST 200 to 500 | Justin + Kevin, accountant | Not started (open decision) | [business.gov.au structures](https://business.gov.au/planning/business-structures-and-types/business-structures) |
-| Director ID (each director) | A 15-digit ID, held for life, needed **before** you are appointed as a director. Apply in person through myID | Required for a Pty Ltd | Free | Justin, Kevin (each applies for their own) | Unknown | [ABRS director ID](https://www.abrs.gov.au/director-identification-number) |
+| Director ID (each director) | A 15-digit ID, held for life, needed **before** you are appointed as a director. Apply online with myID (Standard identity strength); other ways exist if you can't get myID | Required for a Pty Ltd | Free | Justin, Kevin (each applies for their own) | Unknown | [ABRS director ID](https://www.abrs.gov.au/director-identification-number) |
 | Company registration (ACN) | Register a Pty Ltd with ASIC (directly, or through an accountant or an online provider). Gives an ACN. Needs the company name, registered office, principal place of business, directors, shareholders and share classes, and a company constitution or the replaceable rules | Required if Pty Ltd | **636** (from 1 Jul 2026, [source](https://smartersmsf.com/2026/06/asic-fees-from-1-july-2026/)); annual review EST 340/yr | Justin (or accountant) | Not started | [ASIC: register a company](https://asic.gov.au/for-business/registering-a-company/) |
 | ABN | An 11-digit business number. Apply through the Australian Business Register after the ACN (a company) or as an individual (sole trader). Needed for invoices, the .com.au domain, Shopify payouts and suppliers | Required | Free | Justin (or accountant) | Unknown (check for a personal ABN) | [ABR: apply for an ABN](https://www.abr.gov.au/business-super-funds-charities/applying-abn) |
 | TFN for the company | The company's own tax file number. Ask for it in the same ABN application | Required if Pty Ltd | Free | Justin | Not started | [ATO](https://www.ato.gov.au/businesses-and-organisations/starting-registering-or-closing-a-business/starting-your-own-business) |
