@@ -57,3 +57,4 @@ One line per change: date, who, file, what. Newest at the top.
 - 27 Nov 2026 (overnight 26 Nov) | Finance bot | none | No new quote; finance.md unchanged. Report: daily-bots/reports/2026-11-27-finance.md
 - 27 Nov 2026 (overnight 26 Nov) | Marketing bot | marketing.md | Founder taste: 'what Justin approves' style guide (colour, type size, layout, copy length) + 3 PASS headline ideas in report. Report: daily-bots/reports/2026-11-27-marketing-study.md
 - 26 Nov 2026: Ad pack sprint schedule + COMPETITOR REFERENCE rule added to PLAYBOOK.
+- 26 Nov 2026: Realism benchmark added (PLAYBOOK + marketing.md); style-references folder created.

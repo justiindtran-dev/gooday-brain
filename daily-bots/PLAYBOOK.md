@@ -62,6 +62,16 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
       at thumbnail size, brand look (brain/brand.md), clear call to action, believable/no hype. Write 2-3 specific flaws.
    3. Make v2 fixing them (v3 if any score is still under 4). Keep the critique in the report.
    4. Compliance bot checks the final copy (PASS/FIX). Only PASS goes to Justin.
+  REALISM BENCHMARK (Justin, 26 Nov: "concepts are cool but it still looks a little bit AI"): reference
+  static-ads/style-references/ (first: 2026-11-26_zeroed-lychee-flatlay.jpeg, a Zeroed Instagram post). Aim for
+  photoreal product photography: overhead flat lay of the pouch on/among REAL fruit for its flavour (peeled and
+  whole), real textures (water droplets, matte pack finish, steel/stone/linen surfaces), soft natural shadows, plain
+  muted backgrounds, and minimal overlay text (let the pack carry the words; at most one short bold line + CTA).
+  Avoid glossy gradients, floating pouches, sticker-like cut-outs, glow effects and busy callouts. Prefer real photo
+  sources: Justin's own photos of a printed mock-up pouch (ask for them), licensed/royalty-free real fruit and
+  surface photos (record licence in the report), shadows and lighting matched to the photo. Score every design on
+  an extra "looks real, not AI" criterion (1-5); anything under 4 is not shown to Justin. New references Justin
+  drops in the chat get saved to style-references/<date>_<brand>-<what>.jpeg and listed here.
   COMPETITOR REFERENCE (Justin, 26 Nov, required for EVERY ad shown to him): next to each Gooday design, show the
   competitor ad it took inspiration from; if it wasn't inspired by one, show the most similar-looking competitor ad.
   For each reference give: brand, platform, link to the ad (Meta Ad Library / TikTok Creative Center / brand page),
