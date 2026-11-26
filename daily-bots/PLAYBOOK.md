@@ -81,6 +81,13 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   Creative Center: likes, comments, shares, CTR/budget level when shown. If no stats are public, say so plainly and
   give "why it works" (hook, offer, layout, proof) instead. Never invent or estimate numbers without labelling EST.
   The post to Justin shows each pair as: Gooday design | competitor reference + stats | what we borrowed and changed.
+  TRENDTRACK (connected 26 Nov): when Justin's Chrome (Browser 1, Windows) is connected via Claude in Chrome, open
+  app.trendtrack.io in a NEW tab (he is already logged in), search the brand's domain under Shops, open Ad Library
+  (Meta / TikTok / Google icons on the left). His plan shows per ad: days running + date range, ad rank, number of
+  variations, active vs total ads; per shop: visits/mo, revenue/mo (TrendTrack estimates, label EST), product count.
+  Spend, reach and sort-by-days-running are locked on his plan. Close promo popups with the X. NEVER type a password,
+  click Upgrade / Claim deal / any purchase, or change account settings. Close the tab when done. If the browser is
+  not connected (e.g. his PC is off during scheduled runs), fall back to Meta Ad Library / TikTok Creative Center.
   COMPETITOR STUDY (part of the daily designs; overnight on Tue/Thu/Sat for a deeper pass): look at ads that have
   run a long time (a long-running ad usually means it's profitable) in the Meta Ad Library (facebook.com/ads/library,
   country Australia and US) and TikTok Creative Center top ads for Grüns, AG1, Bloom, Vital Proteins, Jelly Me,
