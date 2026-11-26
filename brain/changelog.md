@@ -58,3 +58,6 @@ One line per change: date, who, file, what. Newest at the top.
 - 27 Nov 2026 (overnight 26 Nov) | Marketing bot | marketing.md | Founder taste: 'what Justin approves' style guide (colour, type size, layout, copy length) + 3 PASS headline ideas in report. Report: daily-bots/reports/2026-11-27-marketing-study.md
 - 26 Nov 2026: Ad pack sprint schedule + COMPETITOR REFERENCE rule added to PLAYBOOK.
 - 26 Nov 2026: Realism benchmark added (PLAYBOOK + marketing.md); style-references folder created.
+- 27 Nov 2026 | Compliance bot | claims.md | 2 rules learned: collagen ads use the gym as a place only (no workout-type link such as "Leg day? Peach day."); qualifying small print must be readable on photo ads (scrim). Morning check: 5 PASS, 2 FIX, 0 BLOCK. Report: daily-bots/reports/2026-11-27-compliance.md
+- 27 Nov 2026 | News bot | none | Quiet day; no competitor move needing a brain change (pectin mouthfeel/fibre texture note passed to Nutritionist via report). Report: daily-bots/reports/2026-11-27-news.md
+- 27 Nov 2026 | Marketing bot | marketing.md | Competitor log 27 Nov (DAVID 203 d, Vital Proteins 168 d, Grüns fibre question ~4 mo x3; tracker figures, no screenshots possible from cloud). 3 sprint designs run-0458 (Tear. Squeeze. Done. / Collagen, with Kakadu plum. / Gym bag? Peach packed.). Report: daily-bots/reports/2026-11-27-marketing.md
