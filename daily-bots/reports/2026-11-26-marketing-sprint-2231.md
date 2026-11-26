@@ -56,3 +56,32 @@ Both final designs: **Compliance PASS**, ready for Justin to approve or reject. 
 - Not repeated from the last 3 days: no number stack, no apple, no split screen, no solid colour field. It is the first photoreal pair.
 - TrendTrack: used in a new tab, popups closed with X, no paid buttons clicked; the tab was closed when done.
 - Next step for realism, for Justin: phone photos of a printed mock-up pouch on real peaches or grapes would take these to 5/5.
+
+## Realism pass (`_real` versions, after Justin's review)
+Justin wants both more realistic before Miro. New files in `run-2231/`: **`D1_A_ScoopsOver_real.png`** and **`D2_B_SkipTheGlass_real.png`**. Headline, subline, CTA pill and footer are unchanged. Scripts are in `run-2231/source/real/`; credits are updated in `source/PHOTO-CREDITS.txt`.
+
+What changed (both):
+- **Higher-res photos, same CC0 files.** The originals (peach 2048 px, grapes 4000 px) are now downscaled to 1080x1350 instead of upscaled 1.4–1.6x. Fruit texture is sharp.
+- **Opaque printed film.** The glossy render is gone. The flat round 3 print is re-rendered from `pouch-designs/final-with-critique/source/design.py` v3 (same artwork), so no see-through haze, baked glare streaks or fake droplets remain.
+  - The printed fruit photo on the pack still has its own droplets; they are part of the approved pack art.
+- **Real pouch geometry** (`pack3d.py`):
+  - pillowed body from a smooth height map;
+  - flat heat-seal border with fine crimp ridges;
+  - a few soft creases at the spout shoulders and seals;
+  - a fold where the pack bends over the fruit;
+  - one soft satin highlight from the photo's light direction (back-left window for peaches, overhead-left for the market grapes).
+- **Sits in the scene.**
+  - D1: the pack rests on the front-right peach, and its lower-left corner tucks behind the front-left peach, which overlaps it.
+  - D2: the pack lies on the lower bunch and leans on the basket rim; three front grapes overlap its bottom edge.
+  - Both: contact shadow and occlusion where the pack meets fruit; a soft cast shadow away from the light; a dark crevice where the pack passes behind the peach.
+- **Photo match.** The pack gets the photo's levels, colour temperature and bounce light (pink from the peaches, green from the grapes) and a slightly softened edge. D1 adds depth-of-field blur (the top of the pack is as soft as the back peaches). One grain pass and a JPEG pass cover the whole image, so the pack carries the same noise and compression as the photo.
+- **Still readable:** logo, "Collagen jelly / Fibre + greens jelly", "5 g collagen / 6 g fibre per pouch", flavour name. The claim lines in the lower panel are still soft-focused, and fruit now also covers much of that panel.
+
+| Design | Scroll-stop | One message | Product visible | Thumbnail | Brand look | CTA | Believable | Looks real |
+|---|---|---|---|---|---|---|---|---|
+| D1 Scoops are over (`_real`) | 4 | 5 | 4 | 4 | 4 | 5 | 5 | **4** (up from 4, now a strong 4) |
+| D2 Skip the glass (`_real`) | 4 | 5 | 5 | 4 | 4 | 5 | 5 | **5** |
+
+Honest gaps: on D1, the edge where the pack meets the front-right peach and the fold line could still give it away to a trained eye. Neither pack shows the micro-texture of real film (print dots, scuffs). A phone photo of a printed mock-up remains the only route to a certain 5.
+
+Compliance re-check (claims.md): copy is unchanged, so all copy lines stay **PASS**. Visible pack text is the same Green set: "Collagen jelly", "5 g collagen per pouch", "Peach flavour" / "Fibre + greens jelly", "6 g fibre per pouch", "Green grape flavour". The Amber/unconfirmed lines ("Good source of fibre", "Marine collagen peptides", "plus greens", sugar) are soft-focused and partly hidden by fruit. No competitor assets were used. **Both PASS.**
