@@ -2,6 +2,7 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 27 Nov 2026 | Marketing bot | marketing.md | Sprint run-1837: Justin's stand-in pouch photos used as the pack (re-skinned with round 3 art, method logged); competitor log (Graza 173-day "Crazy Fresh…", RYZE 377-day ritual line; MUD\WTR, Needed. in idea bank); 2 new designs, both Compliance PASS. Report: daily-bots/reports/2026-11-27-marketing-sprint-1837.md
 - 27 Nov 2026 | Marketing bot | marketing.md | Sprint run-1437: competitor log (OLIPOP flavour-fruit static, 3 variants; LMNT "HALF THE STICK.", 2 variants; Ancient Nutrition 124-day and Truvani 385-day ads in idea bank); 2 new designs, both Compliance PASS. Report: daily-bots/reports/2026-11-27-marketing-sprint-1437.md
 - 25 Nov 2026 | Nutritionist bot | formulation.md, decisions.md | Thai 7-Eleven benchmark verified online (Doi Kham ~11 g FOS/inulin + psyllium; Pananchita konjac; Posh 10 g; Jejuvita unconfirmed); WELLINUS + Goli Gut Stik added; new "10 g fibre question" (keep 7 g, sample 10 g); open decision. Report: daily-bots/reports/2026-11-25-nutritionist.md
 - 25 Nov 2026 | Compliance bot | claims.md | Big 6 / 6 g headlines PASS; superlatives (most/highest fibre) added to Red; 1 Open question (gentle fibre). Report: daily-bots/reports/2026-11-25-compliance.md
