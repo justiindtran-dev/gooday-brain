@@ -145,3 +145,4 @@ Brain updated: claims.md (5 rules in "Rules learned" + changelog line), changelo
 - D1 "Here's your fibre." FIX: stat strip "about 25 kcal" is allowed for the green GRAPE fibre SKU only; D1 is green apple. Replace with a Green line (fix sent to Marketing bot).
 - D2 "We're so sorry." PASS ("still in development, so you can't buy it yet" is true; no discount/urgency; no kcal on collagen).
 - D3 "Crunch now. Squeeze later." PASS (flavour line, no fruit-equivalence; pack shows "Squeeze & go", no TEAR HERE).
+- D1 FIX applied 28 Nov (stat strip now '6 g fibre | no mixing | no shaker') -> PASS.

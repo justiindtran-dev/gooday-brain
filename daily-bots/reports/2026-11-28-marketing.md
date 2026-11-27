@@ -22,7 +22,7 @@ Drafts only. Nothing was sent, posted, ordered or spent. The raw stand-in crops 
 
 | # | File | Headline | Scroll-stop | One message | Product visible | Thumbnail | Brand look | CTA | Believable | Looks real |
 |---|---|---|---|---|---|---|---|---|---|---|
-| D1 | `D1_B_HeresYourFibre.png` (= v3) | Here's your fibre. | 4 | 5 | 5 | 4 | 4 | 4 | 5 | **4** |
+| D1 | `D1_B_HeresYourFibre.png` (= v4) | Here's your fibre. | 4 | 5 | 5 | 4 | 4 | 4 | 5 | **4** |
 | D2 | `D2_A_SoSorry.png` (= v2) | We're so sorry. | 5 | 4 | 4 | 4 | 4 | 4 | 5 | **4** |
 | D3 | `D3_B_CrunchNow.png` (= v2) | Crunch now. Squeeze later. | 4 | 5 | 4 | 4 | 4 | 4 | 5 | **4** |
 
@@ -37,7 +37,7 @@ A photo of a real printed Gooday mock-up is still the only route to a 5.
 ## D1 · B fibre · "Here's your fibre." (green apple pack in Justin's open palm)
 - Copy:
   - Cream headline on a dark top shade.
-  - Dark-green **stat strip** on the right (stacked): "6 g fibre | about 25 kcal | no shaker".
+  - Dark-green **stat strip** on the right (stacked): "6 g fibre | no mixing | no shaker" (v4; v3 had "about 25 kcal", see the FIX below).
   - Cream pill "Join the waitlist". Footer on a dark scrim.
 - Scene: photo 41 rotated 90° so the hand offers the pack upright. Pack about 70% of frame height, the biggest of any design so far.
 
@@ -45,7 +45,8 @@ A photo of a real printed Gooday mock-up is still the only route to a 5.
 |---|---|---|---|---|---|---|---|---|---|
 | v1 "Fibre, pouched." | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 3 | Cream headline over the light thumb was hard to read; the stat column overlapped the pack edge; a pale smear of rebuilt skin showed left of the neck (the gap between thumb and palm) |
 | v2 | 4 | 4 | 5 | 4 | 4 | 4 | 5 | 4 | Pack tilted 3.5° and moved 30 px left so its shoulder covers the smear; finger strip on the right rebuilt row by row (finger gaps continue); dark top shade; narrower strip clear of the pack. Remaining: "Fibre, pouched." repeats the "Fibre, X." headline pattern already used (25 and 27 Nov) |
-| **v3 (final)** | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | New headline that fits the open-palm "offering" scene. Remaining: faint seam on the right body edge; the strip is stacked vertically rather than a single row (no room under the pack) |
+| v3 | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | New headline that fits the open-palm "offering" scene. Remaining: faint seam on the right body edge; the strip is stacked vertically rather than a single row (no room under the pack) |
+| **v4 (final)** | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | **Compliance FIX (coordinator, 28 Nov):** "about 25 kcal" is confirmed for the green grape fibre pouch only, and neither claims.md nor product.md gives green apple ~25 kcal. The middle row is now Green "no mixing". Everything else is unchanged from v3 |
 
 ## D2 · A collagen · "We're so sorry." (peach collagen pack on the wood table)
 - Copy:
@@ -86,7 +87,7 @@ Ad IDs are not visible in the screenshots, so there are no direct ad links. To f
 
 | Gooday design | Competitor reference + stats | What we borrowed and changed |
 |---|---|---|
-| D1 "Here's your fibre." `run-0458/D1_B_HeresYourFibre.png` | **Grüns, "KEEP 💩 MOVING!"** sachets + gummies on a cream field with a stat strip "6g fiber \| 20 calories \| 0 sugar", Meta. Crop `refs/gruns-keepmoving-statstrip-swipe06.png`. TrendTrack (swipe-06, card 2): **active 18 days (9 Nov → now)**, rank **66/278 (24%)**, trending down, no targeting data, no variation count shown. Why it works: three checkable numbers in one compact strip; the pack is the hero. | Borrowed: a compact stat strip next to the pack. Changed: **Green claims only** ("6 g fibre", "about 25 kcal" (fibre SKU only, per the 28 Nov rule), "no shaker"). No poop or gut wording (gut lines are an Open question), no "0 sugar", no "prebiotic", and the body-symptom caption ("Bloating, sluggish digestion…") is not used (Meta and claims rules). Real photo of the founder's open palm instead of a studio flat lay; strip stacked vertically beside the pack. None of their words, pack or branding. |
+| D1 "Here's your fibre." `run-0458/D1_B_HeresYourFibre.png` | **Grüns, "KEEP 💩 MOVING!"** sachets + gummies on a cream field with a stat strip "6g fiber \| 20 calories \| 0 sugar", Meta. Crop `refs/gruns-keepmoving-statstrip-swipe06.png`. TrendTrack (swipe-06, card 2): **active 18 days (9 Nov → now)**, rank **66/278 (24%)**, trending down, no targeting data, no variation count shown. Why it works: three checkable numbers in one compact strip; the pack is the hero. | Borrowed: a compact stat strip next to the pack. Changed: **Green claims only** ("6 g fibre", "no mixing", "no shaker"; no kcal, which is confirmed for green grape only). No poop or gut wording (gut lines are an Open question), no "0 sugar", no "prebiotic", and the body-symptom caption ("Bloating, sluggish digestion…") is not used (Meta and claims rules). Real photo of the founder's open palm instead of a studio flat lay; strip stacked vertically beside the pack. None of their words, pack or branding. |
 | D2 "We're so sorry." `run-0458/D2_A_SoSorry.png` | **Grüns, "WE'RE SO SORRY"** fake-apology long-copy static, Meta. Crop `refs/gruns-weresosorry-swipe06.png`. TrendTrack (swipe-06, card 4): **active 6 days (21 Nov → now)**, rank **77/278 (28%)**, trending up, target US, no variation count shown. Why it works: an apology headline breaks the pattern, and the body pays it off. | Borrowed: the apology headline + short body that pays it off. Changed: **the apology is true**: it's not on sale yet. No discount, "make it right" offer, Black Friday or GLP-1 angle; no broccoli comparison (whole-food comparison is Open); no fire emojis or cursor graphics. No supply-timing words ("in development" per the 28 Nov rule); no kcal on collagen. Real photo scene, peach collagen pack. |
 | D3 "Crunch now. Squeeze later." `run-0458/D3_B_CrunchNow.png` | **Goli, Beauty Stik "Make room for skin hydration."** jelly stick on a plate with real strawberries, Meta. Crop `refs/goli-beautystik-strawberry-swipe10.png`. TrendTrack (swipe-10, card 1): **active 10 days (17 Nov → now)**, rank **111/269 (42%)**, target US, no variation count shown. Sibling statics with the same pack-on-strawberry look in the same swipe ran 9 days (ranks 114 to 128/269). Why it works: a jelly pack next to its real flavour fruit says the flavour at a glance; calm, soft styling. | Borrowed: a jelly pack beside its real flavour fruit, with one bold line. Changed: Justin's own apple, table and hand (a real home scene, not a studio set); a two-beat headline that pairs the fruit with the pouch (no fruit-equivalence or nutrient comparison). No skin, hydration, hair or nails claims (Red for us). No coupon codes or "stack" offers (ACCC: no discount theatre). None of their words or branding. |
 
@@ -95,7 +96,7 @@ Ad IDs are not visible in the screenshots, so there are no direct ad links. To f
 | Item | Line | Ruling |
 |---|---|---|
 | D1 headline | "Here's your fibre." | PASS. Format/offer line. No health, gut or dose claim, no "you have…" body language |
-| D1 strip | "6 g fibre" / "about 25 kcal" / "no shaker" | PASS. Green word for word. kcal is on the fibre SKU only (28 Nov rule). Not used as a headline (calorie-led headlines are avoided) |
+| D1 strip | "6 g fibre" / "no mixing" / "no shaker" | PASS (v4, after FIX). Green word for word. v3 had "about 25 kcal": that is confirmed for the green grape fibre pouch only, not green apple, so it was replaced |
 | D2 headline + body | "We're so sorry." / "5 g collagen in a squeezable pouch. Peach flavour. No shaker. It's still in development, so you can't buy it yet." | PASS. Green "5 g collagen" + format; honest pre-launch statement; "in development" (no "coming soon" / "on its way"); no kcal on collagen; no skin, hair, joint or training link; no offer or urgency |
 | D3 headline + subline | "Crunch now. Squeeze later." / "Green apple flavour. 6 g fibre per pouch." | PASS. "Squeeze" is a format word (Green "squeeze and go"); no claim that the pouch replaces or equals fruit. Reuse rule: never pair it with "an apple a day", "as good as an apple" or fruit-serve equivalence |
 | All packs | "6 g fibre per pouch" / "5 g collagen per pouch", "Fibre + greens jelly" / "Collagen jelly", flavour, "Squeeze & go / No scoop, no shaker, no mixing" | PASS. "TEAR HERE" removed and "Tear" dropped (screw-cap shape); Net/kJ erased; Amber/open lines erased; the sugar/greens/Kakadu line is unreadable |
@@ -103,7 +104,7 @@ Ad IDs are not visible in the screenshots, so there are no direct ad links. To f
 | All | Our spouted shape only, never the stand-in silhouette; normal fill; true-to-flat proportions; no jelly or texture shown | PASS (28 Nov AI/composited-image rule). Before pre-orders or any price: replace with photos of a real printed pack |
 | All | No third-party branding, no competitor named, no before/after, no urgency, discount or "sold out", no licensed characters | PASS |
 
-**Result: PASS (all three finals).**
+**Result: PASS (all three finals; D1 final = v4 after the kcal FIX).**
 
 ## Method notes (reusable; scripts in `run-0458/source/`)
 1. **Perspective wood:** `oldshape/rowfill.py` fills from the same rows only, so the grain size and blur match the depth. Copying from far up the frame gave a blurred patch (depth of field). Give the board-joint line so the strip stops before it. Fill the fruit first, protecting the stand-in hole, then fill the stand-in.
