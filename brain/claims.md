@@ -24,6 +24,13 @@ Planning guide, not legal advice. Copied from the Notion [Claims sheet](https://
 - Collagen ads may use the gym only as a place or bag moment ("in your gym bag"). Don't tie collagen to a workout type or a post-training reason ("Leg day? Peach day.", "after legs"): it reads as an implied recovery or joint claim (Red).
 - Photo ads: the qualifying small print ("Not on sale yet… targets…") must sit on a plain or darkened area and be readable on a phone. A busy photo needs a scrim behind it (ACL fine print).
 
+**Rules learned (Compliance bot, 28 Nov 2026):**
+- Stand-in pouch: whenever the physical stand-in is in frame (video, photo), on-screen text and caption say "Stand-in pouch with our concept label" ("Concept pack shown" alone is for renders of our own shape). Never say "no konjac"/"konjac-free" or describe the gel in content that shows the konjac stand-in. Ad finals show only our spouted (old) shape, not the stand-in silhouette.
+- Supply timing: no "on its way", "coming soon" or "launching [month]" until a supplier and production date are confirmed; say "in development". "Be first" only if the waitlist really gets first notice.
+- kcal per SKU: "About 25 kcal" is for the fibre pouch only (target about 26 kcal). The collagen pouch target is about 32 kcal: no kcal line for it until tested.
+- Supplier emails: every enquiry asks for a konjac-free gel; never ask a supplier for konjac-based or glucomannan jelly (11 Nov gel rule).
+- AI and composited images (ACCC release 128/26, 27 Nov): rendered or AI-edited packs show true size, a normal fill and no jelly, texture or gloss not photographed from a real sample. Waitlist ads may use concept renders only with the readable "Not on sale yet. Concept pack shown…" footer. Once the format is decided, renders match its size, net weight and closure. Before pre-orders, sales or any price in an ad, product images must be photos of the real production (or printed pre-production) pack.
+
 **Also:** every health claim needs the product to pass the Nutrient Profiling Scoring Criterion. No collagen health claim exists in Schedule 4. Health claims and "daily dose" language risk making it a TGA medicine. Detail: `../daily-bots/reports/2026-11-22-research.md`.
 
 If this page and Notion disagree, this page wins; update Notion to match.
@@ -52,6 +59,7 @@ Added 22 Nov 2026 by the Compliance bot. Unclear rulings: until answered, treat 
 | 25 Nov | Is "gentle fibre" / "gentle on your gut" a general-level health claim? Can "No inulin. No chicory." imply a digestive benefit (ACL)? | Positioning against high-inulin competitors |
 
 ## Changelog
+- 28 Nov 2026 (Compliance bot): 5 rules added (stand-in disclosure in video; supply-timing words; kcal per SKU; konjac-free supplier asks; AI/composited images per ACCC 128/26). Report: `../daily-bots/reports/2026-11-28-compliance.md`.
 - 27 Nov 2026 (Compliance bot): 2 rules added (collagen + training moment; small print readable on photo ads). Report: `../daily-bots/reports/2026-11-27-compliance.md`.
 - 25 Nov 2026 (Compliance bot): "Big 6"/6 g headlines PASS (number-led, no ranking); superlatives and competitor comparisons added to Red; 1 Open question. Report: `../daily-bots/reports/2026-11-25-compliance.md`.
 - 23 Nov 2026 (Compliance bot): 5 Open items added from the formula claims review (`../daily-bots/reports/2026-11-23-compliance.md`, "Formula claims (23 Nov)"). Confirmed rulings not changed.
