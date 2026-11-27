@@ -104,3 +104,89 @@ Hurt when overdone (tested on the render, `source/real/packtest_render_old_vs_fi
 
 ## Question for Justin
 Approve D1, D2, both, or neither? Approved designs go to `static-ads/approved/2026-11-27/` and the Miro "Approved ads" frame. If you can print the round 3 front on sticker paper and wrap it around the stand-in (or any pouch), one daylight phone shot would take "looks real" from 4 to 5.
+
+## Old-shape remake (late 27 Nov, after Justin: "it looks realistic now but i like the old shape more")
+
+Same 2 designs, same copy, same layout, same scenes (Justin's wood table, daylight for D1 and evening for D2). The pouch is now our **spouted bottle shape** (cap, neck, shoulders), built from the round 3 flat print, with the real film cues from Justin's stand-in photos moved onto it. Drafts only. Nothing was sent, posted or spent.
+
+**Files** (`run-1837/`):
+- `D1_B_FibreButJelly_oldshape.png` (final = `_oldshape_v3`), plus `_oldshape_v1` and `_oldshape_v2`
+- `D2_A_PeachOClock_oldshape.png` (final = `_oldshape_v2`), plus `_oldshape_v1`
+- Scripts and configs are in `source/oldshape/` (oldshape.py, scene2.py, ads.sh, d1/d2_pack.json, d1/d2_scene.json). The HTML layer is unchanged (`source/real/html.py`).
+
+### Scores (finals)
+
+| # | File | Scroll-stop | One message | Product visible | Thumbnail | Brand look | CTA | Believable | Looks real |
+|---|---|---|---|---|---|---|---|---|---|
+| D1 | `D1_B_FibreButJelly_oldshape.png` | 4 | 5 | 5 | 5 | 5 | 4 | 5 | **4** |
+| D2 | `D2_A_PeachOClock_oldshape.png` | 4 | 5 | 5 | 4 | 5 | 4 | 5 | **4** |
+
+Pouch size: D1 is 55% of frame height (cap to bottom seal), D2 is 54%. Brand look goes from 4 to 5 on D1 because the pack is now our own shape.
+
+**Looks real against the earlier run-1837 versions (honest): about the same, 4 and 4.** What changed:
+- **Better than before:**
+  - The fruit no longer looks pasted on. The grapes are now three loose berries, one leaning on the seal, and the peach rests in front of the bottom corner.
+  - Each fruit is re-lit from the photo's light direction, with a contact ring, a cast shadow in the photo's own shadow direction and wood bounce underneath.
+  - The pack's shape is the one we will make, so "Believable" is stronger.
+- **Weaker than before:**
+  - The outline is now drawn from the print, not photographed. Its edges are cleaner and more even than a real pouch's.
+  - The cap is rendered (cylinder shading, ribs, its own highlight). On D2 the cream cap reads slightly CG at full size.
+- **Still visible when zoomed in:**
+  - The blurred claim panel shows between the fruit.
+  - The grapes look a little like pebbles up close.
+  - The peach edge is slightly hard.
+  - Below the D1 pack there is a faint change in wood texture where the stand-in was removed. It sits under the footer scrim.
+
+A daylight phone photo of a real printed Gooday mock-up is still the only route to a 5.
+
+| Version | Looks real | Notes |
+|---|---|---|
+| D1 v1 | 4 | Old shape plus real film maps. Flaws: green cast on the white panel (the stand-in's green film had tinted its own glare colour); grapes floating free beside the pack. |
+| D1 v2 | 4 | Scene-neutral light colour, so the panel is now neutral white. One grape overlaps the seal and casts its shadow onto the pack. |
+| D1 v3 (final) | 4 | Pack scaled 0.875x, down to 55% of frame height (v2 was 56%, over the 55% target). |
+| D2 v1 | 4 | Flaws: logo white looked cyan in the warm evening light; peach a little too saturated. |
+| D2 v2 (final) | 4 | Warm light colour (1.0/0.95/0.87); peach muted and softened. |
+
+### Method (reusable: `source/oldshape/oldshape.py`)
+1. **Clean plate.** The stand-in and its whole shadow are removed from Justin's photo:
+   - Wood grain runs along the rows, so wood bands from the same photo, shifted 900 px up (for the upper part) and down (for the lower part), are real grain.
+   - Poisson blending (`seamlessClone`) matches them to the light at the edge of the hole.
+   - Two earlier tries showed seams and are not used: per-row mirror fill, and low-frequency inpaint matching.
+2. **Old silhouette.** It comes from the round 3 flat print's alpha. The crimped top was replaced by a rounded cap, and the pack keeps the stand-in's tilt (-2.3° D1, -1.6° D2).
+3. **Mesh warp from stand-in to old shape:**
+   - Rows are mapped piecewise through landmarks found from the mask widths: tab to neck, notch to neck base, shoulders to shoulders, body to body, bottom to bottom.
+   - Columns are mapped by their position between the left and right edge of each shape.
+   - The real low-frequency shading (S), the long highlight streaks (K plus the redrawn streak paths) and the photo's seal-edge detail are all sampled through this warp. Creases therefore follow the body and run up into the neck.
+   - Six soft buckle creases were added at the shoulders and neck, with a faint ridge highlight.
+4. **Film:**
+   - Art x warped shading at 1.6x contrast.
+   - Printed white is soft-capped on luminance, so hue is kept, at the photo's own white-print level (206 for D1, 184 for D2).
+   - Crimped seal band about 16 px wide, flat, with ridges across it and a small valley where the pillow rises.
+   - Wood bounce near the edges; warped real streaks screen-blended on top.
+5. **Shadow.** The photo's real shadow (photo divided by the clean plate) moves through the same warp, keeping pixel offsets outside the outline, so it holds its real softness along the sides.
+   - Where the two outlines differ most (below the bottom, around the neck and cap), a cast-plus-contact shadow model fitted to the real shadow is used. Fitted values: D1 offset (-64, 32) px, blur 44, density 0.30; D2 offset (-112, 208) px, blur 44, density 0.49 plus 0.24 contact.
+   - The cap gets its own small contact shadow.
+6. **Cap.** Matte moulded plastic: cylinder shading across the cap, ribs along it, rounded top and bottom edges, one small highlight from the photo's light, a faint mottle, and an occlusion line on the neck just below it.
+7. **Fruit (`scene2.py`):**
+   - Real CC0 cut-outs (same sources as before). Grapes: single berries cut from the cluster with ellipse masks. Peach: clean circular outline, with the bowl-shadow band rebuilt from its own skin.
+   - Sphere-normal relight from the photo's light direction, glare capped at the photo's white level, warm wood bounce and darkening on the underside, light wrap at the edge.
+   - Cast shadow in the photo's shadow direction plus a tight contact and occlusion ring, falling onto the pack where they overlap.
+   - Softness matched to the photo; one shared grain and JPEG pass.
+
+**No trace of the stand-in remains:**
+- The hole covers the whole stand-in mask, 110 to 120 px beyond it, plus the shadow area.
+- From the stand-in, only low-frequency shading, long thin glare streaks (taken outside its artwork boxes, with pink and dark areas excluded) and the luminance of its outer seal edge are reused.
+- I zoom-checked the neck, cap, seals and the wood around the pack.
+- The raw photos, crops and clean plates in `source/standin/` and `source/oldshape/` stay internal.
+
+### Compliance (against brain/claims.md)
+
+| Item | Ruling |
+|---|---|
+| Headlines, sublines and CTAs | Unchanged word for word from the finals above, so the same PASS |
+| Pack text | Same round 3 print ("6 g fibre per pouch" / "5 g collagen per pouch", jelly line, flavour, "Tear here"). The unconfirmed claim panel is soft-focused and unreadable, and partly covered by fruit. PASS |
+| Footer "Not on sale yet. Concept pack shown. Nutrition figures are targets…" (27 Nov rule) | On the dark scrim, white text vs the background behind it: D1 median 9.4:1, worst 8.2:1; D2 median 16.3:1, worst 13.5:1. Above 4.5:1 everywhere, so readable on a phone. PASS |
+| Pack shape | Now our concept shape. It is still a render, so "Concept pack shown" stays. Before paid use, replace with a photo of a real printed mock-up. PASS for drafts |
+| Third-party branding | None: stand-in fully removed, book out of the D2 crop, no competitor named. PASS |
+
+**Result: PASS (both).**

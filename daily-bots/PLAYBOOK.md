@@ -81,7 +81,7 @@ If Justin owns a task but a bot can do part of it (research, a draft, a comparis
   Creative Center: likes, comments, shares, CTR/budget level when shown. If no stats are public, say so plainly and
   give "why it works" (hook, offer, layout, proof) instead. Never invent or estimate numbers without labelling EST.
   The post to Justin shows each pair as: Gooday design | competitor reference + stats | what we borrowed and changed.
-  STAND-IN POUCH METHOD (27 Nov, preferred until real Gooday packs exist): base every pack on Justin's photos of a
+  STAND-IN POUCH METHOD (27 Nov; UPDATED 27 Nov 10:23 PM: Justin prefers the OLD spouted bottle shape, so keep that silhouette and only transfer the stand-in photo film cues onto it): reference Justin's photos of a
   real spouted stand-in pouch in gooday-launch/static-ads/style-references/standin-pouch-2026-11-27/ (internal only; it is
   another brand's pack). Re-skin with Gooday artwork keeping the photo's own shading and long highlight streaks; cap
   whites at the photo's white level; remove 100% of the original brand. Scripts: static-ads/daily/2026-11-27/run-1837/
