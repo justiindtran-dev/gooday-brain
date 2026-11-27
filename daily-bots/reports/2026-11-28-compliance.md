@@ -140,3 +140,8 @@ With this wording: **PASS**. Notes: (1) the draft has no "To" address; Justin mu
 None new. Existing Open items unchanged.
 
 Brain updated: claims.md (5 rules in "Rules learned" + changelog line), changelog.md.
+
+## Addendum, 6:11 AM report (28 Nov) — run-0458 morning designs (checked by the assistant against claims.md incl. 28 Nov rules)
+- D1 "Here's your fibre." FIX: stat strip "about 25 kcal" is allowed for the green GRAPE fibre SKU only; D1 is green apple. Replace with a Green line (fix sent to Marketing bot).
+- D2 "We're so sorry." PASS ("still in development, so you can't buy it yet" is true; no discount/urgency; no kcal on collagen).
+- D3 "Crunch now. Squeeze later." PASS (flavour line, no fruit-equivalence; pack shows "Squeeze & go", no TEAR HERE).
