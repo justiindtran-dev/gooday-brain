@@ -42,3 +42,9 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 | 22 Nov | Visit Sand-M in Bang Yai before 25 Nov? | Phone 24 Nov AM to book a short meeting 25 Nov; or drop and follow up by email 27 Nov | 25 Nov | Low cost to ask. RFQ emailed 23 Nov, no reply as of 24 Nov; call script in ../daily-bots/reports/2026-11-24-procurement.md (Procurement bot, 24 Nov) |
 | 21 Nov | Peach on both lines or collagen only; grape teal or purple | | Before print | Design critique |
 | 21 Nov | Bag of 14 or 28 | | Before print | |
+
+## 26-27 Nov 2026
+- 26 Nov, 10:31 PM: Justin asked for a manual ad sprint run (run-2231). Who: Justin.
+- 26 Nov, 11:14 PM: Justin approved "Scoops are over." and "Skip the glass." on condition they were made more realistic first; realism pass done, both placed on Miro beside the Approved ads frame (marked for review) and copied to static-ads/approved/2026-11-26/. "Skip the glass" later got a readable-footer fix (Compliance). Who: Justin.
+- 27 Nov: Realism without our own pouch: use a real stand-in spouted pouch photographed by Justin, re-skinned with Gooday artwork (original brand fully removed). Justin supplied 4 photos of a stand-in konjac pouch; this is now the default pack method until real Gooday packs exist. Why: renders read as "a bit AI". Who: Justin (photos), bots (method).
+- 27 Nov: Gooday pouches not yet ordered (Justin). Mock-up pack photos therefore come from stand-ins.
