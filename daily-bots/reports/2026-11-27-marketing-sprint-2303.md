@@ -29,8 +29,8 @@ Drafts only. Nothing was sent, posted, ordered or spent. The raw stand-in photos
 
 | # | File | Headline | Scroll-stop | One message | Product visible | Thumbnail | Brand look | CTA | Believable | Looks real |
 |---|---|---|---|---|---|---|---|---|---|---|
-| D1 | `D1_B_TheOtherApple.png` (= v6) | The other apple. | 4 | 5 | 5 | 4 | 4 | 4 | 5 | **4** |
-| D2 | `D2_A_SingleHanded.png` (= v3) | Collagen, single-handed. | 4 | 5 | 5 | 5 | 5 | 4 | 4 | **4** |
+| D1 | `D1_B_TheOtherApple.png` (= v7) | The other apple. | 4 | 5 | 5 | 4 | 4 | 4 | 5 | **4** |
+| D2 | `D2_A_SingleHanded.png` (= v4) | Collagen, single-handed. | 4 | 5 | 5 | 5 | 5 | 4 | 4 | **4** |
 
 **Looks real: 4, not 5 (honest).** The scene, light, apple, hand, thumb and shadows are all real photo. What still gives it away when you zoom in:
 - The pack outline is drawn from the print. Its edges are cleaner and straighter than a real pouch's.
@@ -53,7 +53,8 @@ A photo of a real printed Gooday mock-up is still the only route to a 5.
 | v3 | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | One-line headline touched the apple; subline broken over 4 lines; dark shading blotches on the white panel (stand-in's black box) |
 | v4 | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | Shading softened, board joint redrawn through the hole; the "p" descenders still touched the apple |
 | v5 | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | Photo shifted down 25 px; text and apple now clear. Compliance FIX: "plus greens · under 2 g sugar", "Net 120 g" and kJ were readable |
-| **v6 (final)** | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | Same as v5, with those lines soft-focused. Remaining: the apple is still large next to the pack (the photo is stacked front-to-back); brand look 4 (wood, not a solid flavour field) |
+| v6 | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | Same as v5, with those lines soft-focused. Remaining: the apple is still large next to the pack (the photo is stacked front-to-back); brand look 4 (wood, not a solid flavour field) |
+| **v7 (final)** | 4 | 5 | 5 | 4 | 4 | 4 | 5 | 4 | Justin: "add more volume to the packet, looks a bit flat". Now a filled pouch: domed body with shading falling off toward the seals, soft core highlight on the bulge, darker rim inside the seal, thin flat seal kept, inward pull wrinkles at the shoulders and base corners, sides bowed out about 3.5%, print pulled slightly over the dome near the edges (Green lines still readable), 9 px edge thickness on the near (bottom) side, and a thicker contact shadow at the table. Remaining: the dome is modelled, not photographed; the crown reads slightly soft-plastic at full size |
 
 ## D2 · A collagen · "Collagen, single-handed." (Justin's real hand)
 - Copy: maroon headline on the wood; subline "5 g collagen per pouch. No shaker." (right); maroon pill "Join the waitlist". Footer on a dark scrim.
@@ -68,7 +69,8 @@ A photo of a real printed Gooday mock-up is still the only route to a 5.
 |---|---|---|---|---|---|---|---|---|---|
 | v1 | 4 | 5 | 5 | 4 | 5 | 4 | 4 | 3 | Logo grey with pink and yellow fringes (print misregistration scaled 1.47x); whites capped too low (photo's white level 186); no contact shadow, so the pack floated; rebuilt wood under the base was lighter than the real shadow |
 | v2 | 4 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | Compliance FIX: "with Kakadu plum · under 2 g sugar", "Net 120 g" and kJ were readable. Otherwise the same as v3: fringes off, white level from the brighter print highlights, real floor put back under the base plus a contact shadow. Remaining: the left edge is very straight; faint repeated grain where the apple was; one small crinkle highlight on the left seal |
-| **v3 (final)** | 4 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | Same as v2, with the sugar line and the Net/kJ row soft-focused |
+| v3 | 4 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | Same as v2, with the sugar line and the Net/kJ row soft-focused |
+| **v4 (final)** | 4 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | Volume pass (Justin: "looks a bit flat"): domed body, core highlight, darker rim inside the seal, pull wrinkles, sides bowed, print curved over the dome, 9 px edge thickness on the right/near side, AO at the base, plus a small thumb dent and pressure crease where his thumb presses in. Honest note: the dent and crease are subtle at ad size, and the dome is modelled |
 
 ## Gooday design | competitor reference + stats | what we borrowed and changed
 Source: **Justin's real TrendTrack screenshots** (`style-references/trendtrack-swipes-2026-11-27/`, shared 27 Nov). The stats are read off the screenshots. Nothing is estimated.
@@ -96,7 +98,9 @@ Ad IDs are not visible in the screenshots, so there is no direct ad link. To fin
 
 **Compliance FIX (coordinator, 27 Nov late):** v5/v2 had "plus greens · under 2 g sugar" (D1), "under 2 g sugar" (D2), "Net 120 g" and kJ sharp. The 26 Nov pass treated the greens and sugar line as unconfirmed. Fixed in D1 v6 / D2 v3 by soft-focusing those whole lines (`source/real/flat_*_h.png`; the earlier versions are kept as `_v5` / `_v2`).
 
-**Result: PASS (both, finals D1 v6 and D2 v3).** Before paid use, swap in a photo of a real printed Gooday mock-up (ACL: the pictured pack should match what ships).
+**Volume pass (D1 v7 / D2 v4):** same copy, scene and blur rules (the sugar line and the Net/kJ row are still unreadable). The print warp is only a few px near the edges, so the Green front lines stay readable. No original brand.
+
+**Result: PASS (both, finals D1 v7 and D2 v4).** Before paid use, swap in a photo of a real printed Gooday mock-up (ACL: the pictured pack should match what ships).
 
 ## Method notes (reusable; scripts in `run-2303/source/oldshape/`)
 1. **woodfill.py, a clean plate without Poisson seams.** It splits the plate into a low-frequency light level (Telea fill at 1/8 scale) and high-frequency grain. The grain is copied along the measured grain direction (structure tensor). For an eye-level scene with a hand on the left (`WF_SIDE=right`), it tiles the strip of wood to the right of each row's hole, so the depth and blur match.
@@ -116,6 +120,21 @@ Ad IDs are not visible in the screenshots, so there is no direct ad link. To fin
    - Apple beside the pouch, not behind it.
    - Fingers clearly in front or clearly behind.
    - A green apple (or no fruit) for the apple pack; a peach for collagen.
+
+## Volume defaults (reusable)
+`oldshape.py` now applies a filled-pouch `volume` block by default (VOL_DEFAULT at the top of the file); set `"volume": false` in a config to turn it off, or override keys.
+- `bow` 0.035: sides bow out.
+- `height` 0.21 and `reach` 0.55: the dome.
+- `amb` 0.58 and `kd` 0.62: dome shading.
+- `rim` 0.20 and `rim_w` 10: darker valley inside the seal.
+- `core` 0.24 and `core_pow` 9: soft highlight on the bulge.
+- `warp` 0.55: print pulled over the dome.
+- `pull` 0.05: wrinkles at the seals and shoulders.
+- `thick` [dx, dy, px]: near-side edge thickness (D1 [0, 9, 9], D2 [9, 5, 9]).
+- `ao` [blur, density, push]: contact / ambient occlusion.
+- `dent` [radius, depth, crease length]: thumb dent, only with `keep_front` (D2 [60, 0.30, 220]).
+
+The pre-volume script is kept as `source/oldshape/oldshape_pre_volume.py`.
 
 ## Question for Justin
 Approve D1, D2, both, or neither? Approved designs go to `static-ads/approved/2026-11-27/` and the Miro "Approved ads" frame.
