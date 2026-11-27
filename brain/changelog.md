@@ -2,6 +2,7 @@
 
 One line per change: date, who, file, what. Newest at the top.
 
+- 27 Nov 2026 | Marketing bot | marketing.md | Sprint run-1437: competitor log (OLIPOP flavour-fruit static, 3 variants; LMNT "HALF THE STICK.", 2 variants; Ancient Nutrition 124-day and Truvani 385-day ads in idea bank); 2 new designs, both Compliance PASS. Report: daily-bots/reports/2026-11-27-marketing-sprint-1437.md
 - 25 Nov 2026 | Nutritionist bot | formulation.md, decisions.md | Thai 7-Eleven benchmark verified online (Doi Kham ~11 g FOS/inulin + psyllium; Pananchita konjac; Posh 10 g; Jejuvita unconfirmed); WELLINUS + Goli Gut Stik added; new "10 g fibre question" (keep 7 g, sample 10 g); open decision. Report: daily-bots/reports/2026-11-25-nutritionist.md
 - 25 Nov 2026 | Compliance bot | claims.md | Big 6 / 6 g headlines PASS; superlatives (most/highest fibre) added to Red; 1 Open question (gentle fibre). Report: daily-bots/reports/2026-11-25-compliance.md
 - 25 Nov 2026 | Procurement bot | suppliers.md, decisions.md | Tombow replied 24 Nov (25 g stick, MOQ ~37k/SKU, LBG + carrageenan + xanthan, JPY 100% prepaid); ATIQ delivery delayed; RFQ comparison first row; open decision on Tombow terms. Report: daily-bots/reports/2026-11-25-procurement.md
