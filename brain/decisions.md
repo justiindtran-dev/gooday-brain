@@ -49,3 +49,6 @@ Founders decide. Bots may add items under "Open" but never mark one decided. New
 - 27 Nov: Realism without our own pouch: use a real stand-in spouted pouch photographed by Justin, re-skinned with Gooday artwork (original brand fully removed). Justin supplied 4 photos of a stand-in konjac pouch; this is now the default pack method until real Gooday packs exist. Why: renders read as "a bit AI". Who: Justin (photos), bots (method).
 - 27 Nov: Gooday pouches not yet ordered (Justin). Mock-up pack photos therefore come from stand-ins.
 - 27 Nov, 10:23 PM: Justin: the stand-in re-skin "looks realistic now but I like the old shape more". Keep the original spouted bottle-shaped Gooday pouch in ads; borrow only the real film cues (shading, highlight streaks, white level, shadow) from the stand-in photos. Who: Justin.
+
+## 28 Nov 2026, 7:40 PM
+- Justin cut the ad sprint to once a day (10:37 AM) until Wed 2 Dec to save usage credits. Scheduled restore to 10:37/2:37/6:37 at 6:00 AM Wed 2 Dec. Other bots unchanged.
