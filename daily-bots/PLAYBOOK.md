@@ -34,6 +34,8 @@ The source of truth for Gooday is /mnt/project-files/brain/. Start: brain/README
   4:58 AM (with the morning bots), plus 10:37 AM, 2:37 PM and 6:37 PM as its own scheduled run ("Gooday ad pack sprint"). Each run makes 2 new
   designs (3 in the 4:58 run), runs Compliance on them, and posts them straight to Justin with the COMPETITOR
   REFERENCE for each (see Marketing bot). Files go to static-ads/daily/<date>/run-<HHMM>/.
+  TEMPORARY (Justin, 28 Nov, saving usage credits): 10:37 AM run only until Wed 2 Dec; 2:37 PM and 6:37 PM come back
+  6:00 AM Wed 2 Dec. If 9+ designs are still unreviewed, skip the run and say so in the brief.
 - 6:11 AM daily, REPORT: one combined report (see Outputs). Ops bot syncs the brain with GitHub.
 - Sunday 6:47 PM, CEO WEEKLY: Chief of staff bot writes the weekly summary for Justin and Kevin.
 

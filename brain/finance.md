@@ -1,6 +1,6 @@
 # Finance: unit economics v1
 
-Finance bot, 23 Nov 2026 (status checked 25 Nov 2026, 11 PM ICT). **First indicative price: Bionutricia (MY), 25 Nov** (section 12); no firm quote yet. Tombow (JP) gave MOQ and terms on 24 Nov, no price (see [suppliers.md](suppliers.md)). Nearly every cost here is still **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
+Finance bot, 23 Nov 2026 (status checked 29 Nov 2026). **First indicative price: Bionutricia (MY), 25 Nov** (section 12); no firm quote yet. **JoyGlo (CN), 27 Nov: MOQ ~8,500 pouches/flavour, pouch and freight costs, no jelly price yet** (section 13). Tombow (JP) gave MOQ and terms on 24 Nov, no price (see [suppliers.md](suppliers.md)). Nearly every cost here is still **EST**. Facts with a source are linked. Assumptions: FX A$1 = US$0.65 = ฿23.5 (EST); CNY 1 ≈ A$0.21 (EST). "Unit" means one serve (one stick or one pouch). "Pack" means one bag of 28 (or 14). Mid-points are used where a range exists. Worked model: `../daily-bots/reports/2026-11-23-finance.md`.
 
 ## What this page says
 1. **The 20 to 30 g stick is the money format.** The 28-pack weighs about 1 kg as sticks and about 3.8 kg as 120 g pouches. The pouch costs more to make and far more to post, and it never beats the stick.
@@ -152,3 +152,19 @@ Detail: `../daily-bots/reports/2026-11-26-finance.md`. Bionutricia indicative (q
 | Bionutricia sachet 30 g | 30,000 | A$37k to 48k | A$1.04 to 1.36 | −A$0.40 to +8.60 |
 | Sand-M stick (unquoted) | 20,000 | ≈ A$12k | ≈ A$0.36 | ≈ A$27.70 |
 Finance view: the 5k pouch is a paid experiment (it loses money on every pack); Tombow is positive per pack but needs about A$20k to 29k of cash at risk per SKU before any sale, plus FX risk. Wait for the 27 Nov follow-ups (Sand-M, Litafood) and Tombow's answers. Founders decide.
+
+## 13. JoyGlo (China) pilot: 100 g pouch, plain pouch + stick-on label (29 Nov 2026; EST unless "JoyGlo")
+Source: JoyGlo email 27 Nov 2026 ([suppliers.md](suppliers.md), `../daily-bots/reports/2026-11-28-procurement.md`). JoyGlo facts: MOQ ~8,500 pouches/flavour (100 g); plain foil/clear spout pouch CNY 0.3 to 0.4 (≈A$0.06 to 0.08) with **no packaging MOQ**; custom printed pouch MOQ 100k/flavour + plate ~CNY 5,000/flavour (≈A$1,050, refundable after 40× plate spend); samples free, **sample freight CNY 900 to 1,200 (≈A$190 to 250)**; **jelly price only after recipe (NDA first)**. Formula cost unchanged: A$0.17 fibre / A$0.24 collagen per pouch ([formulation.md](formulation.md), 24 Nov), inside the ex-works line below.
+| Per 100 g pouch, A$ | Low | High |
+|---|---|---|
+| Jelly + fill, ex-works (EST CNY 1.5 to 3.0; no quote) | 0.32 | 0.63 |
+| Plain spout pouch (JoyGlo) | 0.06 | 0.08 |
+| Stick-on label (EST) | 0.03 | 0.05 |
+| Sea freight LCL (EST) | 0.10 | 0.12 |
+| AU duty (0% EST under ChAFTA; certificate of origin, broker to confirm) | 0 | 0 |
+| **Landed (sea)** | **0.51** | **0.88** |
+| A$59/28 gross margin · contribution (pouch pack costs, section 2) | 71% · A$18.10 | 52% · A$7.70 |
+| **First-batch cash, one flavour** (stock 8,500 + import GST 10% + 304 outer bags + sample freight + AU lab A$1.5k + R&D A$0 to 1k) | **≈ A$7k** | **≈ A$11k** |
+- Lowest cash-at-risk of any option so far (Sand-M stick ≈A$12k unquoted, Tombow A$22k to 31k, Bionutricia pouch A$18k to 23k). Each extra flavour or the collagen SKU adds about A$5k to 9k. A printed pouch would add ≈A$7k to 9k of pouches + ≈A$1k plate per flavour: keep plain + label for the pilot.
+- **Price gate for the indicative ask (D1):** break-even before ads needs ex-works jelly under ≈CNY 4.3 (A$0.90) a pouch; ≥A$14 contribution (the Sand-M pouch level) needs under ≈CNY 1.9 (A$0.41).
+- Sample freight A$190 to 250 sits at the section 9 mid case per supplier; ask whether it covers both SKUs (D1 q5).
